@@ -1,0 +1,69 @@
+{
+    "bug_database": "dataset/spark-1day/spark-1day_soft_clean.json",
+    "database_name": "spark-1day",
+    "epochs": 8,
+    "lr": 0.001,
+    "batch_size" : 128,
+    "cuda" : true,
+    "cache_folder": "scratch/temp/",
+    "pairs_training": "dataset/spark-1day/training_split_spark-1day_pairs_random_1.txt",
+    "pairs_validation": "dataset/spark-1day/validation_spark-1day_pairs_random_1.txt",
+    "neg_pair_generator": {
+        "type": "non_negative",
+        "training": "dataset/spark-1day/training_spark-1day.txt",
+        "n_tries": 15,
+        "rate": 1
+    },
+    "sum_desc":null,
+    "summary":
+        {
+            "word_embedding": "word_embedding/spark-1day/glove_42B_300d_spark-1day.txt",
+            "tokenizer": "white_space",
+            "filters": ["TransformLowerCaseFilter"],
+            "hidden_size": 300,
+            "encoder_type": "rnn",
+            "rnn_type": "lstm",
+            "update_embedding": false,
+            "dropout": 0.15,
+            "bidirectional": true,
+            "fixed_opt": "mean+max"
+        },
+    "description":{
+        "word_embedding": "word_embedding/spark-1day/glove_42B_300d_spark-1day.txt",
+        "encoder_type": "rnn",
+        "tokenizer": "white_space",
+        "filters": ["TransformLowerCaseFilter"],
+        "batch_normalization": true,
+        "update_embedding": false,
+        "bidirectional": true,
+        "rnn_type": "lstm",
+        "fixed_opt": "mean+max",
+        "hidden_size": 300,
+        "dropout": 0.15
+    },
+    "categorical":{
+        "lexicons": "dataset/spark-1day/categorical_lexicons.json",
+        "bn_last_layer": true,
+        "emb_size": 20,
+        "hidden_sizes": [40],
+        "dropout": 0.0,
+        "activation": "relu",
+        "batch_normalization": true
+    },
+    "classifier":{
+        "type": "binary",
+        "without_embedding": false,
+        "batch_normalization": true,
+        "hidden_sizes": [300, 50]
+    },
+    "optimizer": "adam",
+    "rr_val_epoch": 100,
+    "rr_train_epoch": 100,
+    "lr_scheduler": null,
+    "recall_rate": {
+        "type": "sun2011",
+        "dataset": "dataset/spark-1day/test_spark-1day.txt",
+        "group_by_master": true,
+        "window": 365
+    }
+}

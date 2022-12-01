@@ -1,0 +1,174 @@
+2022-08-30 Tuesday 17:04:40:INFO: Evaluating kibana TEXT 3
+2022-08-30 Tuesday 17:04:40:INFO: It started at: 2022-08-30 17:04:40.577409
+2022-08-30 Tuesday 17:04:40:INFO: Number of bugs with empty description: 156
+2022-08-30 Tuesday 17:04:43:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 53922
+2022-08-30 Tuesday 17:04:43:WARNING: Candidate - consider a report which its id 55767 is bigger than duplicate 53922
+2022-08-30 Tuesday 17:04:43:WARNING: Candidate - consider a report which its id 55766 is bigger than duplicate 53922
+2022-08-30 Tuesday 17:04:43:WARNING: Candidate - consider a report which its id 55765 is bigger than duplicate 53922
+2022-08-30 Tuesday 17:04:43:WARNING: Candidate - consider a report which its id 55764 is bigger than duplicate 53922
+2022-08-30 Tuesday 17:04:43:WARNING: Candidate - consider a report which its id 55514 is bigger than duplicate 53922
+2022-08-30 Tuesday 17:04:43:WARNING: Bug 53922 has 0 candidates!
+2022-08-30 Tuesday 17:04:43:WARNING: Recommendation list of 53922 is empty.                 Consider it as miss.
+2022-08-30 Tuesday 17:04:43:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 53959
+2022-08-30 Tuesday 17:04:43:WARNING: Candidate - consider a report which its id 55767 is bigger than duplicate 53959
+2022-08-30 Tuesday 17:04:43:WARNING: Candidate - consider a report which its id 55766 is bigger than duplicate 53959
+2022-08-30 Tuesday 17:04:43:WARNING: Candidate - consider a report which its id 55765 is bigger than duplicate 53959
+2022-08-30 Tuesday 17:04:43:WARNING: Candidate - consider a report which its id 55764 is bigger than duplicate 53959
+2022-08-30 Tuesday 17:04:43:WARNING: Candidate - consider a report which its id 55514 is bigger than duplicate 53959
+2022-08-30 Tuesday 17:04:45:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 54078
+2022-08-30 Tuesday 17:04:45:WARNING: Candidate - consider a report which its id 55767 is bigger than duplicate 54078
+2022-08-30 Tuesday 17:04:45:WARNING: Candidate - consider a report which its id 55766 is bigger than duplicate 54078
+2022-08-30 Tuesday 17:04:45:WARNING: Candidate - consider a report which its id 55765 is bigger than duplicate 54078
+2022-08-30 Tuesday 17:04:45:WARNING: Candidate - consider a report which its id 55764 is bigger than duplicate 54078
+2022-08-30 Tuesday 17:04:45:WARNING: Candidate - consider a report which its id 55514 is bigger than duplicate 54078
+2022-08-30 Tuesday 17:04:46:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 54548
+2022-08-30 Tuesday 17:04:46:WARNING: Candidate - consider a report which its id 55767 is bigger than duplicate 54548
+2022-08-30 Tuesday 17:04:46:WARNING: Candidate - consider a report which its id 55766 is bigger than duplicate 54548
+2022-08-30 Tuesday 17:04:46:WARNING: Candidate - consider a report which its id 55765 is bigger than duplicate 54548
+2022-08-30 Tuesday 17:04:46:WARNING: Candidate - consider a report which its id 55764 is bigger than duplicate 54548
+2022-08-30 Tuesday 17:04:46:WARNING: Candidate - consider a report which its id 55514 is bigger than duplicate 54548
+2022-08-30 Tuesday 17:04:46:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 55153
+2022-08-30 Tuesday 17:04:46:WARNING: Candidate - consider a report which its id 55767 is bigger than duplicate 55153
+2022-08-30 Tuesday 17:04:46:WARNING: Candidate - consider a report which its id 55766 is bigger than duplicate 55153
+2022-08-30 Tuesday 17:04:46:WARNING: Candidate - consider a report which its id 55765 is bigger than duplicate 55153
+2022-08-30 Tuesday 17:04:46:WARNING: Candidate - consider a report which its id 55764 is bigger than duplicate 55153
+2022-08-30 Tuesday 17:04:46:WARNING: Candidate - consider a report which its id 55514 is bigger than duplicate 55153
+2022-08-30 Tuesday 17:04:47:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 55212
+2022-08-30 Tuesday 17:04:47:WARNING: Candidate - consider a report which its id 55767 is bigger than duplicate 55212
+2022-08-30 Tuesday 17:04:47:WARNING: Candidate - consider a report which its id 55766 is bigger than duplicate 55212
+2022-08-30 Tuesday 17:04:47:WARNING: Candidate - consider a report which its id 55765 is bigger than duplicate 55212
+2022-08-30 Tuesday 17:04:47:WARNING: Candidate - consider a report which its id 55764 is bigger than duplicate 55212
+2022-08-30 Tuesday 17:04:47:WARNING: Candidate - consider a report which its id 55514 is bigger than duplicate 55212
+2022-08-30 Tuesday 17:04:48:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 55338
+2022-08-30 Tuesday 17:04:48:WARNING: Candidate - consider a report which its id 55767 is bigger than duplicate 55338
+2022-08-30 Tuesday 17:04:48:WARNING: Candidate - consider a report which its id 55766 is bigger than duplicate 55338
+2022-08-30 Tuesday 17:04:48:WARNING: Candidate - consider a report which its id 55765 is bigger than duplicate 55338
+2022-08-30 Tuesday 17:04:48:WARNING: Candidate - consider a report which its id 55764 is bigger than duplicate 55338
+2022-08-30 Tuesday 17:04:48:WARNING: Candidate - consider a report which its id 55514 is bigger than duplicate 55338
+2022-08-30 Tuesday 17:04:48:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 55699
+2022-08-30 Tuesday 17:04:48:WARNING: Candidate - consider a report which its id 55767 is bigger than duplicate 55699
+2022-08-30 Tuesday 17:04:48:WARNING: Candidate - consider a report which its id 55766 is bigger than duplicate 55699
+2022-08-30 Tuesday 17:04:48:WARNING: Candidate - consider a report which its id 55765 is bigger than duplicate 55699
+2022-08-30 Tuesday 17:04:48:WARNING: Candidate - consider a report which its id 55764 is bigger than duplicate 55699
+2022-08-30 Tuesday 17:04:48:WARNING: Bug 55699 has 0 candidates!
+2022-08-30 Tuesday 17:04:48:WARNING: Recommendation list of 55699 is empty.                 Consider it as miss.
+2022-08-30 Tuesday 17:04:48:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 55768
+2022-08-30 Tuesday 17:04:49:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 55785
+2022-08-30 Tuesday 17:04:50:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 55797
+2022-08-30 Tuesday 17:04:50:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 56323
+2022-08-30 Tuesday 17:04:51:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 56371
+2022-08-30 Tuesday 17:04:52:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 56424
+2022-08-30 Tuesday 17:04:52:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 56536
+2022-08-30 Tuesday 17:04:53:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 56678
+2022-08-30 Tuesday 17:04:54:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 56978
+2022-08-30 Tuesday 17:04:54:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 57214
+2022-08-30 Tuesday 17:04:55:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 57690
+2022-08-30 Tuesday 17:04:56:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 57822
+2022-08-30 Tuesday 17:04:56:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 57966
+2022-08-30 Tuesday 17:04:57:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 57971
+2022-08-30 Tuesday 17:04:58:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 58189
+2022-08-30 Tuesday 17:04:58:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 58209
+2022-08-30 Tuesday 17:04:59:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 58248
+2022-08-30 Tuesday 17:05:00:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 58562
+2022-08-30 Tuesday 17:05:00:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 58605
+2022-08-30 Tuesday 17:05:01:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 58687
+2022-08-30 Tuesday 17:05:01:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 58795
+2022-08-30 Tuesday 17:05:02:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 58928
+2022-08-30 Tuesday 17:05:03:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 59037
+2022-08-30 Tuesday 17:05:03:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 59278
+2022-08-30 Tuesday 17:05:04:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 59712
+2022-08-30 Tuesday 17:05:05:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 60095
+2022-08-30 Tuesday 17:05:06:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 60263
+2022-08-30 Tuesday 17:05:06:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 60447
+2022-08-30 Tuesday 17:05:07:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 60632
+2022-08-30 Tuesday 17:05:08:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 60712
+2022-08-30 Tuesday 17:05:08:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 60881
+2022-08-30 Tuesday 17:05:09:WARNING: Candidate - consider a report which its id 61348 is bigger than duplicate 61315
+2022-08-30 Tuesday 17:05:10:WARNING: Bug 61468 has 0 candidates!
+2022-08-30 Tuesday 17:05:10:WARNING: Recommendation list of 61468 is empty.                 Consider it as miss.
+2022-08-30 Tuesday 17:05:12:WARNING: Bug 61918 has 0 candidates!
+2022-08-30 Tuesday 17:05:12:WARNING: Recommendation list of 61918 is empty.                 Consider it as miss.
+2022-08-30 Tuesday 17:05:17:WARNING: Bug 63361 has 0 candidates!
+2022-08-30 Tuesday 17:05:17:WARNING: Recommendation list of 63361 is empty.                 Consider it as miss.
+2022-08-30 Tuesday 17:05:20:WARNING: Bug 64264 has 0 candidates!
+2022-08-30 Tuesday 17:05:20:WARNING: Recommendation list of 64264 is empty.                 Consider it as miss.
+2022-08-30 Tuesday 17:05:30:WARNING: Candidate - consider a report which its id 66867 is bigger than duplicate 66855
+2022-08-30 Tuesday 17:05:42:WARNING: Bug 68718 has 0 candidates!
+2022-08-30 Tuesday 17:05:42:WARNING: Recommendation list of 68718 is empty.                 Consider it as miss.
+2022-08-30 Tuesday 17:05:46:WARNING: Bug 70398 has 0 candidates!
+2022-08-30 Tuesday 17:05:46:WARNING: Recommendation list of 70398 is empty.                 Consider it as miss.
+2022-08-30 Tuesday 17:05:50:WARNING: Candidate - consider a report which its id 71399 is bigger than duplicate 71385
+2022-08-30 Tuesday 17:05:55:WARNING: Candidate - consider a report which its id 75512 is bigger than duplicate 72985
+2022-08-30 Tuesday 17:05:56:WARNING: Candidate - consider a report which its id 75512 is bigger than duplicate 73044
+2022-08-30 Tuesday 17:05:57:WARNING: Candidate - consider a report which its id 75512 is bigger than duplicate 73224
+2022-08-30 Tuesday 17:05:58:WARNING: Candidate - consider a report which its id 75512 is bigger than duplicate 73373
+2022-08-30 Tuesday 17:05:59:WARNING: Candidate - consider a report which its id 75512 is bigger than duplicate 73711
+2022-08-30 Tuesday 17:05:59:WARNING: Candidate - consider a report which its id 75512 is bigger than duplicate 73842
+2022-08-30 Tuesday 17:06:00:WARNING: Candidate - consider a report which its id 75512 is bigger than duplicate 74477
+2022-08-30 Tuesday 17:06:01:WARNING: Candidate - consider a report which its id 75512 is bigger than duplicate 74850
+2022-08-30 Tuesday 17:06:02:WARNING: Candidate - consider a report which its id 75512 is bigger than duplicate 75193
+2022-08-30 Tuesday 17:06:02:WARNING: Candidate - consider a report which its id 75512 is bigger than duplicate 75271
+2022-08-30 Tuesday 17:06:03:WARNING: Candidate - consider a report which its id 75512 is bigger than duplicate 75438
+2022-08-30 Tuesday 17:06:06:WARNING: Bug 75848 has 0 candidates!
+2022-08-30 Tuesday 17:06:06:WARNING: Recommendation list of 75848 is empty.                 Consider it as miss.
+2022-08-30 Tuesday 17:06:12:WARNING: Bug 77275 has 0 candidates!
+2022-08-30 Tuesday 17:06:12:WARNING: Recommendation list of 77275 is empty.                 Consider it as miss.
+2022-08-30 Tuesday 17:06:12:WARNING: Candidate - consider a report which its id 77504 is bigger than duplicate 77368
+2022-08-30 Tuesday 17:06:12:WARNING: Candidate - consider a report which its id 77504 is bigger than duplicate 77463
+2022-08-30 Tuesday 17:06:12:WARNING: Bug 77463 has 0 candidates!
+2022-08-30 Tuesday 17:06:12:WARNING: Recommendation list of 77463 is empty.                 Consider it as miss.
+2022-08-30 Tuesday 17:06:18:WARNING: Bug 79051 has 0 candidates!
+2022-08-30 Tuesday 17:06:18:WARNING: Recommendation list of 79051 is empty.                 Consider it as miss.
+2022-08-30 Tuesday 17:06:20:WARNING: Bug 79793 has 0 candidates!
+2022-08-30 Tuesday 17:06:20:WARNING: Recommendation list of 79793 is empty.                 Consider it as miss.
+2022-08-30 Tuesday 17:06:22:WARNING: Bug 80651 has 0 candidates!
+2022-08-30 Tuesday 17:06:22:WARNING: Recommendation list of 80651 is empty.                 Consider it as miss.
+2022-08-30 Tuesday 17:06:23:WARNING: Candidate - consider a report which its id 81159 is bigger than duplicate 80947
+2022-08-30 Tuesday 17:06:23:WARNING: Bug 80947 has 0 candidates!
+2022-08-30 Tuesday 17:06:23:WARNING: Recommendation list of 80947 is empty.                 Consider it as miss.
+2022-08-30 Tuesday 17:06:23:WARNING: Candidate - consider a report which its id 81159 is bigger than duplicate 81045
+2022-08-30 Tuesday 17:06:29:WARNING: Candidate - consider a report which its id 83329 is bigger than duplicate 82029
+2022-08-30 Tuesday 17:06:30:WARNING: Candidate - consider a report which its id 83329 is bigger than duplicate 82044
+2022-08-30 Tuesday 17:06:31:WARNING: Candidate - consider a report which its id 83329 is bigger than duplicate 82089
+2022-08-30 Tuesday 17:06:31:WARNING: Candidate - consider a report which its id 83329 is bigger than duplicate 82173
+2022-08-30 Tuesday 17:06:32:WARNING: Candidate - consider a report which its id 83329 is bigger than duplicate 82221
+2022-08-30 Tuesday 17:06:33:WARNING: Candidate - consider a report which its id 83329 is bigger than duplicate 82479
+2022-08-30 Tuesday 17:06:34:WARNING: Candidate - consider a report which its id 83329 is bigger than duplicate 82665
+2022-08-30 Tuesday 17:06:34:WARNING: Candidate - consider a report which its id 83329 is bigger than duplicate 82683
+2022-08-30 Tuesday 17:06:35:WARNING: Candidate - consider a report which its id 83329 is bigger than duplicate 82981
+2022-08-30 Tuesday 17:06:36:WARNING: Candidate - consider a report which its id 83329 is bigger than duplicate 83056
+2022-08-30 Tuesday 17:06:37:WARNING: Candidate - consider a report which its id 83329 is bigger than duplicate 83257
+2022-08-30 Tuesday 17:06:37:WARNING: Bug 83257 has 0 candidates!
+2022-08-30 Tuesday 17:06:37:WARNING: Recommendation list of 83257 is empty.                 Consider it as miss.
+2022-08-30 Tuesday 17:06:37:WARNING: Candidate - consider a report which its id 83329 is bigger than duplicate 83297
+2022-08-30 Tuesday 17:06:40:WARNING: Bug 83607 has 0 candidates!
+2022-08-30 Tuesday 17:06:40:WARNING: Recommendation list of 83607 is empty.                 Consider it as miss.
+2022-08-30 Tuesday 17:06:42:WARNING: Bug 84776 has 0 candidates!
+2022-08-30 Tuesday 17:06:42:WARNING: Recommendation list of 84776 is empty.                 Consider it as miss.
+2022-08-30 Tuesday 17:06:44:WARNING: Bug 85540 has 0 candidates!
+2022-08-30 Tuesday 17:06:44:WARNING: Recommendation list of 85540 is empty.                 Consider it as miss.
+2022-08-30 Tuesday 17:06:46:INFO: [Recall Rate] Throughput: 1.4968263511018494 bugs per second (bugs=184 ,seconds=122.9267508983612)
+2022-08-30 Tuesday 17:06:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 1, 'rate': 0.07608695652173914, 'hit': 14, 'total': 184}
+2022-08-30 Tuesday 17:06:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 2, 'rate': 0.08695652173913043, 'hit': 16, 'total': 184}
+2022-08-30 Tuesday 17:06:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 3, 'rate': 0.09782608695652174, 'hit': 18, 'total': 184}
+2022-08-30 Tuesday 17:06:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 4, 'rate': 0.10326086956521739, 'hit': 19, 'total': 184}
+2022-08-30 Tuesday 17:06:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 5, 'rate': 0.10326086956521739, 'hit': 19, 'total': 184}
+2022-08-30 Tuesday 17:06:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 6, 'rate': 0.10869565217391304, 'hit': 20, 'total': 184}
+2022-08-30 Tuesday 17:06:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 7, 'rate': 0.11956521739130435, 'hit': 22, 'total': 184}
+2022-08-30 Tuesday 17:06:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 8, 'rate': 0.11956521739130435, 'hit': 22, 'total': 184}
+2022-08-30 Tuesday 17:06:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 9, 'rate': 0.11956521739130435, 'hit': 22, 'total': 184}
+2022-08-30 Tuesday 17:06:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 10, 'rate': 0.11956521739130435, 'hit': 22, 'total': 184}
+2022-08-30 Tuesday 17:06:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 11, 'rate': 0.125, 'hit': 23, 'total': 184}
+2022-08-30 Tuesday 17:06:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 12, 'rate': 0.1358695652173913, 'hit': 25, 'total': 184}
+2022-08-30 Tuesday 17:06:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 13, 'rate': 0.14673913043478262, 'hit': 27, 'total': 184}
+2022-08-30 Tuesday 17:06:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 14, 'rate': 0.15217391304347827, 'hit': 28, 'total': 184}
+2022-08-30 Tuesday 17:06:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 15, 'rate': 0.16304347826086957, 'hit': 30, 'total': 184}
+2022-08-30 Tuesday 17:06:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 16, 'rate': 0.16304347826086957, 'hit': 30, 'total': 184}
+2022-08-30 Tuesday 17:06:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 17, 'rate': 0.16304347826086957, 'hit': 30, 'total': 184}
+2022-08-30 Tuesday 17:06:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 18, 'rate': 0.16304347826086957, 'hit': 30, 'total': 184}
+2022-08-30 Tuesday 17:06:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 19, 'rate': 0.16847826086956522, 'hit': 31, 'total': 184}
+2022-08-30 Tuesday 17:06:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 20, 'rate': 0.16847826086956522, 'hit': 31, 'total': 184}
+2022-08-30 Tuesday 17:06:46:INFO: {'type': 'metric', 'label': 'MAP', 'value': 0.09624011781265512, 'sum': 17.708181677528543, 'total': 184}
+2022-08-30 Tuesday 17:06:46:INFO: [inf, 3818, 134, 4093, 13, 81, 4440, inf, 3856, 1, 1, 197, 196, 367, 25, 13, 29, 3594, 96, 1145, 2, 6, 4621, 37, 33, 280, 2232, 1, 1215, 1389, 3, 107, 497, 3, 1077, 998, 289, 1134, 488, 1406, inf, 55, 85, 154, inf, 3133, 3060, 2734, 2876, 1768, 2, 1, inf, 245, 989, 1807, 4462, inf, 14, 1, 78, 1636, 1, 550, 264, 2629, 240, 3244, 2089, 3127, 4649, 273, 115, 142, 1448, 192, 494, 659, 4457, 575, 421, 19, 274, 73, 15, 12, 4, 61, inf, 12, 2152, 15, 261, 7, inf, 37, 1031, 1153, 4226, 955, 1248, 1, 393, 1, 4525, 1719, 388, 5352, 4095, 11, 289, 26, 24, 1, 1, 1, 533, 1560, 463, 635, 30, 506, inf, 449, 921, 1269, 1578, 1548, 37, 1246, inf, 4601, inf, 2414, 1020, 274, 1626, 32, 594, 152, inf, 933, 1021, 1693, inf, 1397, 698, 364, inf, 4839, inf, 1, 153, 176, 1, 1, 3926, 271, 248, 5052, 2703, 62, 934, 218, 347, 1649, 7, 156, inf, 85, 1289, 4818, 394, inf, 5939, 656, 904, inf, 4142, 669, 206, inf, 2812, 2338]
+2022-08-30 Tuesday 17:06:46:INFO: It completed at: 2022-08-30 17:06:46.028734
+2022-08-30 Tuesday 17:06:46:INFO: Completed after: 0:02:05.451325

@@ -1,0 +1,8 @@
+build/*
+dataset/*
+doc/*
+eclipse*
+experiments/*
+openoffice*
+ranknet*
+timestamp*

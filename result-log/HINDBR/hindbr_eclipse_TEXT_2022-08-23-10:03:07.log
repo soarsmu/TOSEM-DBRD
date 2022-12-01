@@ -1,0 +1,109 @@
+2022-08-23 Tuesday 10:03:07:INFO: Evaluating eclipse TEXT 8
+2022-08-23 Tuesday 10:03:07:INFO: It started at: 2022-08-23 10:03:07.070543
+2022-08-23 Tuesday 10:03:07:INFO: Number of bugs with empty description: 1108
+2022-08-23 Tuesday 10:03:16:WARNING: Bug 558725 has 0 candidates!
+2022-08-23 Tuesday 10:03:16:WARNING: Recommendation list of 558725 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:03:16:WARNING: Bug 558798 has 0 candidates!
+2022-08-23 Tuesday 10:03:16:WARNING: Recommendation list of 558798 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:03:19:WARNING: Bug 558922 has 0 candidates!
+2022-08-23 Tuesday 10:03:19:WARNING: Recommendation list of 558922 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:03:33:WARNING: Bug 559200 has 0 candidates!
+2022-08-23 Tuesday 10:03:33:WARNING: Recommendation list of 559200 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:03:35:WARNING: Bug 559271 has 0 candidates!
+2022-08-23 Tuesday 10:03:35:WARNING: Recommendation list of 559271 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:03:37:WARNING: Bug 559368 has 0 candidates!
+2022-08-23 Tuesday 10:03:37:WARNING: Recommendation list of 559368 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:03:40:WARNING: Bug 559480 has 0 candidates!
+2022-08-23 Tuesday 10:03:40:WARNING: Recommendation list of 559480 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:03:40:WARNING: Bug 559482 has 0 candidates!
+2022-08-23 Tuesday 10:03:40:WARNING: Recommendation list of 559482 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:04:13:WARNING: Bug 560134 has 0 candidates!
+2022-08-23 Tuesday 10:04:13:WARNING: Recommendation list of 560134 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:04:23:WARNING: Bug 560493 has 0 candidates!
+2022-08-23 Tuesday 10:04:23:WARNING: Recommendation list of 560493 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:04:32:WARNING: Bug 560794 has 0 candidates!
+2022-08-23 Tuesday 10:04:32:WARNING: Recommendation list of 560794 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:04:36:WARNING: Bug 560836 has 0 candidates!
+2022-08-23 Tuesday 10:04:36:WARNING: Recommendation list of 560836 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:04:50:WARNING: Bug 561268 has 0 candidates!
+2022-08-23 Tuesday 10:04:50:WARNING: Recommendation list of 561268 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:04:56:WARNING: Bug 561485 has 0 candidates!
+2022-08-23 Tuesday 10:04:56:WARNING: Recommendation list of 561485 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:04:56:WARNING: Bug 561518 has 0 candidates!
+2022-08-23 Tuesday 10:04:56:WARNING: Recommendation list of 561518 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:04:56:WARNING: Bug 561574 has 0 candidates!
+2022-08-23 Tuesday 10:04:56:WARNING: Recommendation list of 561574 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:05:04:WARNING: Bug 561755 has 0 candidates!
+2022-08-23 Tuesday 10:05:04:WARNING: Recommendation list of 561755 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:05:24:WARNING: Bug 562403 has 0 candidates!
+2022-08-23 Tuesday 10:05:24:WARNING: Recommendation list of 562403 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:05:28:WARNING: Bug 562454 has 0 candidates!
+2022-08-23 Tuesday 10:05:28:WARNING: Recommendation list of 562454 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:05:34:WARNING: Bug 562576 has 0 candidates!
+2022-08-23 Tuesday 10:05:34:WARNING: Recommendation list of 562576 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:05:45:WARNING: Bug 562781 has 0 candidates!
+2022-08-23 Tuesday 10:05:45:WARNING: Recommendation list of 562781 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:05:50:WARNING: Bug 562966 has 0 candidates!
+2022-08-23 Tuesday 10:05:50:WARNING: Recommendation list of 562966 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:06:02:WARNING: Bug 563220 has 0 candidates!
+2022-08-23 Tuesday 10:06:02:WARNING: Recommendation list of 563220 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:06:12:WARNING: Bug 563343 has 0 candidates!
+2022-08-23 Tuesday 10:06:12:WARNING: Recommendation list of 563343 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:06:19:WARNING: Bug 563443 has 0 candidates!
+2022-08-23 Tuesday 10:06:19:WARNING: Recommendation list of 563443 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:06:21:WARNING: Bug 563475 has 0 candidates!
+2022-08-23 Tuesday 10:06:21:WARNING: Recommendation list of 563475 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:06:22:WARNING: Bug 563481 has 0 candidates!
+2022-08-23 Tuesday 10:06:22:WARNING: Recommendation list of 563481 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:06:31:WARNING: Bug 563817 has 0 candidates!
+2022-08-23 Tuesday 10:06:31:WARNING: Recommendation list of 563817 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:06:47:WARNING: Bug 564310 has 0 candidates!
+2022-08-23 Tuesday 10:06:47:WARNING: Recommendation list of 564310 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:07:04:WARNING: Bug 564824 has 0 candidates!
+2022-08-23 Tuesday 10:07:04:WARNING: Recommendation list of 564824 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:07:21:WARNING: Bug 565326 has 0 candidates!
+2022-08-23 Tuesday 10:07:21:WARNING: Recommendation list of 565326 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:07:55:WARNING: Bug 566342 has 0 candidates!
+2022-08-23 Tuesday 10:07:55:WARNING: Recommendation list of 566342 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:08:00:WARNING: Bug 566635 has 0 candidates!
+2022-08-23 Tuesday 10:08:00:WARNING: Recommendation list of 566635 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:08:06:WARNING: Bug 566782 has 0 candidates!
+2022-08-23 Tuesday 10:08:06:WARNING: Recommendation list of 566782 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:08:07:WARNING: Bug 566907 has 0 candidates!
+2022-08-23 Tuesday 10:08:07:WARNING: Recommendation list of 566907 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:08:35:WARNING: Bug 567615 has 0 candidates!
+2022-08-23 Tuesday 10:08:35:WARNING: Recommendation list of 567615 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:08:44:WARNING: Bug 568038 has 0 candidates!
+2022-08-23 Tuesday 10:08:44:WARNING: Recommendation list of 568038 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:08:52:WARNING: Bug 568294 has 0 candidates!
+2022-08-23 Tuesday 10:08:52:WARNING: Recommendation list of 568294 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:08:56:WARNING: Bug 568472 has 0 candidates!
+2022-08-23 Tuesday 10:08:56:WARNING: Recommendation list of 568472 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:09:28:WARNING: Bug 569479 has 0 candidates!
+2022-08-23 Tuesday 10:09:28:WARNING: Recommendation list of 569479 is empty.                 Consider it as miss.
+2022-08-23 Tuesday 10:09:31:INFO: RR calculation - 500 duplicate reports were processed
+2022-08-23 Tuesday 10:09:46:INFO: [Recall Rate] Throughput: 1.3177335282126297 bugs per second (bugs=520 ,seconds=394.6169607639313)
+2022-08-23 Tuesday 10:09:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 1, 'rate': 0.08653846153846154, 'hit': 45, 'total': 520}
+2022-08-23 Tuesday 10:09:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 2, 'rate': 0.09038461538461538, 'hit': 47, 'total': 520}
+2022-08-23 Tuesday 10:09:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 3, 'rate': 0.09230769230769231, 'hit': 48, 'total': 520}
+2022-08-23 Tuesday 10:09:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 4, 'rate': 0.1, 'hit': 52, 'total': 520}
+2022-08-23 Tuesday 10:09:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 5, 'rate': 0.1, 'hit': 52, 'total': 520}
+2022-08-23 Tuesday 10:09:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 6, 'rate': 0.10192307692307692, 'hit': 53, 'total': 520}
+2022-08-23 Tuesday 10:09:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 7, 'rate': 0.10576923076923077, 'hit': 55, 'total': 520}
+2022-08-23 Tuesday 10:09:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 8, 'rate': 0.11153846153846154, 'hit': 58, 'total': 520}
+2022-08-23 Tuesday 10:09:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 9, 'rate': 0.11346153846153846, 'hit': 59, 'total': 520}
+2022-08-23 Tuesday 10:09:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 10, 'rate': 0.11730769230769231, 'hit': 61, 'total': 520}
+2022-08-23 Tuesday 10:09:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 11, 'rate': 0.11730769230769231, 'hit': 61, 'total': 520}
+2022-08-23 Tuesday 10:09:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 12, 'rate': 0.11730769230769231, 'hit': 61, 'total': 520}
+2022-08-23 Tuesday 10:09:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 13, 'rate': 0.12115384615384615, 'hit': 63, 'total': 520}
+2022-08-23 Tuesday 10:09:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 14, 'rate': 0.12307692307692308, 'hit': 64, 'total': 520}
+2022-08-23 Tuesday 10:09:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 15, 'rate': 0.12307692307692308, 'hit': 64, 'total': 520}
+2022-08-23 Tuesday 10:09:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 16, 'rate': 0.125, 'hit': 65, 'total': 520}
+2022-08-23 Tuesday 10:09:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 17, 'rate': 0.12884615384615383, 'hit': 67, 'total': 520}
+2022-08-23 Tuesday 10:09:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 18, 'rate': 0.1326923076923077, 'hit': 69, 'total': 520}
+2022-08-23 Tuesday 10:09:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 19, 'rate': 0.1346153846153846, 'hit': 70, 'total': 520}
+2022-08-23 Tuesday 10:09:46:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 20, 'rate': 0.1346153846153846, 'hit': 70, 'total': 520}
+2022-08-23 Tuesday 10:09:46:INFO: {'type': 'metric', 'label': 'MAP', 'value': 0.0967623061704982, 'sum': 50.316399208659064, 'total': 520}
+2022-08-23 Tuesday 10:09:46:INFO: [592, inf, 331, inf, 379, 1997, 412, inf, 4304, 2402, 2319, 1, 1, 2739, 1799, 451, 8448, 138, 2548, 3, 347, 1205, 1, 3467, 205, inf, 1, 424, inf, 763, 909, 4227, inf, 6486, 162, 6, inf, inf, 4, 1, 335, 13, 3998, 314, 1048, 1893, 25, 10, 913, 18, 4576, 6555, 773, 6968, 714, 836, 1433, 488, 3770, 3167, 514, 14, 277, 2216, 2917, 1151, 5014, 8, 553, 17, 1278, 325, 406, 1005, 5308, 316, inf, 1, 2165, 296, 822, 1460, 2893, 841, 3954, 691, 78, 251, 3535, inf, 226, 3066, 6791, 4, 1898, 1783, 1270, 3853, 66, 4676, 845, inf, 5450, 5368, 737, 1682, 379, inf, 2482, 4623, 6453, 3818, 240, 3071, 6755, 1305, 4071, 7409, 1, 3357, 6437, 2389, 1, 1520, 4910, inf, 2533, 6974, 1144, 4568, 4725, 7659, 3650, inf, inf, 2, inf, 1765, 2146, 161, 3260, 2504, 3092, 18, 3979, 1, 4084, inf, 2856, 3153, 1149, 106, 1751, 2647, 82, 1949, 7360, 2376, 155, 90, 1, 8, 37, 3318, 1388, 206, 125, 2301, 452, 957, 2395, 1, 1, inf, 57, 1876, 237, 1362, 6744, inf, 1, 898, 1, 147, 7384, 1341, 3462, inf, 1369, 6469, 1639, 1754, 3880, 657, 4507, 84, 2188, 4855, 935, 243, 659, inf, 118, 3928, 5417, 43, 4065, 1, 1, inf, 1076, 726, 2067, 1161, 87, 129, 6780, 530, 161, 2197, 893, 1135, 1483, 100, inf, 264, 5630, 28, 49, 869, 1486, 8, 3503, 3204, 106, 299, 1804, inf, 3534, 2669, 3077, 67, 6077, 560, 4720, 544, inf, 2920, 1103, inf, 1358, inf, 209, 1, 6861, 3225, 4461, 3037, 1, 375, 787, 3864, 416, inf, 857, 571, 4842, 172, 1828, 2280, 1, 790, 22, 2557, 224, 600, 5368, 48, 3929, 412, 6043, 1, 1323, inf, 575, 106, 33, 243, 6791, 329, 4319, 5830, 3092, 2860, 5270, 4, 4740, 3950, 4015, 1, 4232, 3831, 371, 1318, 171, inf, 439, 373, 1, 1, 357, 1, 1, 1, 3971, 2688, 414, 5242, 1067, 7027, 3075, 160, 1, 1728, 2806, 305, 530, 3416, inf, 2712, 4, 253, 646, 3665, 7098, 1, 63, 117, 1, 5674, 1, 4621, 358, 2730, 2477, 440, 1182, 512, 1042, 4110, 1184, 2481, 2075, 263, 2035, 2877, 7010, 3246, 358, 1358, 2083, 10, 3724, 1, 4585, 5501, 3986, 233, 2800, 5170, 1, inf, 1, 1133, 460, 321, 1199, 2434, inf, 1761, 1, 1, 1, 1, 1, 1213, 1423, inf, 4688, inf, 1297, 590, 802, 446, 13, 3340, 5897, 147, 1339, 1, 579, 1289, 3206, 601, 413, 2, 53, 59, 1949, 218, 3390, 1613, 55, 3105, 6322, 25, 71, 3436, 16, 358, 360, 424, 3209, 276, 32, 99, inf, 1306, 1, 36, 7, 1, 1496, 1489, 278, 3544, 5920, 306, inf, 308, 112, 2471, 1997, 250, 1, 3715, 3292, 67, inf, 3172, 6903, 2729, 23, 1592, 26, inf, 4192, 2031, 2785, 1470, 2530, 133, 4576, 9, 2145, 59, 196, 27, 5553, 105, 5462, 158, 2989, 2793, 70, 1894, 960, 5099, 821, 4206, 557, 76, 1841, 3485, 1413, 1, 132, 4723, 6916, 3282, 2071, 3605, 1620, 7, 1131, inf, 1388, 409, 2949, 2806, 1, 5121, 1, 2043, 213, 164, 762, 884, 696, 19, 723, 97, 1139, 478, 1130, 430, 17, 2891, 1815, 2952]
+2022-08-23 Tuesday 10:09:46:INFO: It completed at: 2022-08-23 10:09:46.870525
+2022-08-23 Tuesday 10:09:46:INFO: Completed after: 0:06:39.799982

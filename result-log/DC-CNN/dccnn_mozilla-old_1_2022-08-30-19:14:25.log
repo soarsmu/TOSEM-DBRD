@@ -1,0 +1,518 @@
+2022-08-30 Tuesday 19:14:25:INFO: Evaluating mozilla-old 2
+2022-08-30 Tuesday 19:14:25:INFO: It started at: 2022-08-30 19:14:25.287441
+2022-08-30 Tuesday 19:14:32:INFO: Number of bugs with empty description: 14239
+2022-08-30 Tuesday 19:15:01:INFO: loaded...
+2022-08-30 Tuesday 19:15:07:INFO: bug index range is from 3462 to 6923
+2022-08-30 Tuesday 19:15:07:INFO: the bug id range is 994326 to 1035931
+2022-08-30 Tuesday 19:15:28:WARNING: From /storage/zhaozheng/conda/envs/hindbr/lib/python3.6/site-packages/tensorflow/python/keras/engine/training_v1.py:2070: Model.state_updates (from tensorflow.python.keras.engine.training) is deprecated and will be removed in a future version.
+Instructions for updating:
+This property should not be used in TensorFlow 2.0, as updates are applied automatically.
+2022-08-30 Tuesday 19:20:43:WARNING: Bug 994497 has 0 candidates!
+2022-08-30 Tuesday 19:20:43:WARNING: Recommendation list of 994497 is empty. Consider it as miss.
+2022-08-30 Tuesday 19:31:48:WARNING: Bug 994713 has 0 candidates!
+2022-08-30 Tuesday 19:31:48:WARNING: Recommendation list of 994713 is empty. Consider it as miss.
+2022-08-30 Tuesday 19:33:28:WARNING: Bug 994831 has 0 candidates!
+2022-08-30 Tuesday 19:33:28:WARNING: Recommendation list of 994831 is empty. Consider it as miss.
+2022-08-30 Tuesday 19:36:46:WARNING: Bug 995074 has 0 candidates!
+2022-08-30 Tuesday 19:36:46:WARNING: Recommendation list of 995074 is empty. Consider it as miss.
+2022-08-30 Tuesday 19:42:56:WARNING: Bug 995190 has 0 candidates!
+2022-08-30 Tuesday 19:42:56:WARNING: Recommendation list of 995190 is empty. Consider it as miss.
+2022-08-30 Tuesday 19:47:07:WARNING: Bug 995268 has 0 candidates!
+2022-08-30 Tuesday 19:47:07:WARNING: Recommendation list of 995268 is empty. Consider it as miss.
+2022-08-30 Tuesday 20:00:29:WARNING: Bug 995536 has 0 candidates!
+2022-08-30 Tuesday 20:00:29:WARNING: Recommendation list of 995536 is empty. Consider it as miss.
+2022-08-30 Tuesday 20:12:48:WARNING: Bug 995730 has 0 candidates!
+2022-08-30 Tuesday 20:12:48:WARNING: Recommendation list of 995730 is empty. Consider it as miss.
+2022-08-30 Tuesday 20:13:54:WARNING: Bug 995784 has 0 candidates!
+2022-08-30 Tuesday 20:13:54:WARNING: Recommendation list of 995784 is empty. Consider it as miss.
+2022-08-30 Tuesday 20:20:29:WARNING: Bug 995896 has 0 candidates!
+2022-08-30 Tuesday 20:20:29:WARNING: Recommendation list of 995896 is empty. Consider it as miss.
+2022-08-30 Tuesday 20:21:36:WARNING: Bug 995934 has 0 candidates!
+2022-08-30 Tuesday 20:21:36:WARNING: Recommendation list of 995934 is empty. Consider it as miss.
+2022-08-30 Tuesday 20:27:46:WARNING: Bug 996038 has 0 candidates!
+2022-08-30 Tuesday 20:27:46:WARNING: Recommendation list of 996038 is empty. Consider it as miss.
+2022-08-30 Tuesday 20:32:17:WARNING: Bug 996096 has 0 candidates!
+2022-08-30 Tuesday 20:32:17:WARNING: Recommendation list of 996096 is empty. Consider it as miss.
+2022-08-30 Tuesday 20:39:29:WARNING: Bug 996233 has 0 candidates!
+2022-08-30 Tuesday 20:39:29:WARNING: Recommendation list of 996233 is empty. Consider it as miss.
+2022-08-30 Tuesday 20:39:29:WARNING: Bug 996241 has 0 candidates!
+2022-08-30 Tuesday 20:39:29:WARNING: Recommendation list of 996241 is empty. Consider it as miss.
+2022-08-30 Tuesday 20:44:01:WARNING: Bug 996374 has 0 candidates!
+2022-08-30 Tuesday 20:44:01:WARNING: Recommendation list of 996374 is empty. Consider it as miss.
+2022-08-30 Tuesday 20:47:58:WARNING: Bug 996407 has 0 candidates!
+2022-08-30 Tuesday 20:47:58:WARNING: Recommendation list of 996407 is empty. Consider it as miss.
+2022-08-30 Tuesday 21:02:30:WARNING: Bug 996558 has 0 candidates!
+2022-08-30 Tuesday 21:02:30:WARNING: Recommendation list of 996558 is empty. Consider it as miss.
+2022-08-30 Tuesday 21:03:37:WARNING: Bug 996586 has 0 candidates!
+2022-08-30 Tuesday 21:03:37:WARNING: Recommendation list of 996586 is empty. Consider it as miss.
+2022-08-30 Tuesday 21:17:03:WARNING: Bug 996956 has 0 candidates!
+2022-08-30 Tuesday 21:17:03:WARNING: Recommendation list of 996956 is empty. Consider it as miss.
+2022-08-30 Tuesday 21:27:10:WARNING: Bug 997156 has 0 candidates!
+2022-08-30 Tuesday 21:27:10:WARNING: Recommendation list of 997156 is empty. Consider it as miss.
+2022-08-30 Tuesday 21:31:04:WARNING: Bug 997244 has 0 candidates!
+2022-08-30 Tuesday 21:31:04:WARNING: Recommendation list of 997244 is empty. Consider it as miss.
+2022-08-30 Tuesday 21:34:26:WARNING: Bug 997401 has 0 candidates!
+2022-08-30 Tuesday 21:34:26:WARNING: Recommendation list of 997401 is empty. Consider it as miss.
+2022-08-30 Tuesday 21:56:50:WARNING: Bug 998009 has 0 candidates!
+2022-08-30 Tuesday 21:56:50:WARNING: Recommendation list of 998009 is empty. Consider it as miss.
+2022-08-30 Tuesday 21:57:23:WARNING: Bug 998025 has 0 candidates!
+2022-08-30 Tuesday 21:57:23:WARNING: Recommendation list of 998025 is empty. Consider it as miss.
+2022-08-30 Tuesday 22:00:11:WARNING: Bug 998081 has 0 candidates!
+2022-08-30 Tuesday 22:00:11:WARNING: Recommendation list of 998081 is empty. Consider it as miss.
+2022-08-30 Tuesday 22:09:06:WARNING: Bug 998322 has 0 candidates!
+2022-08-30 Tuesday 22:09:06:WARNING: Recommendation list of 998322 is empty. Consider it as miss.
+2022-08-30 Tuesday 22:10:14:WARNING: Bug 998358 has 0 candidates!
+2022-08-30 Tuesday 22:10:14:WARNING: Recommendation list of 998358 is empty. Consider it as miss.
+2022-08-30 Tuesday 22:13:34:WARNING: Bug 998472 has 0 candidates!
+2022-08-30 Tuesday 22:13:34:WARNING: Recommendation list of 998472 is empty. Consider it as miss.
+2022-08-30 Tuesday 22:15:16:WARNING: Bug 998502 has 0 candidates!
+2022-08-30 Tuesday 22:15:16:WARNING: Recommendation list of 998502 is empty. Consider it as miss.
+2022-08-30 Tuesday 22:17:35:WARNING: Bug 998544 has 0 candidates!
+2022-08-30 Tuesday 22:17:35:WARNING: Recommendation list of 998544 is empty. Consider it as miss.
+2022-08-30 Tuesday 22:40:16:WARNING: Bug 999098 has 0 candidates!
+2022-08-30 Tuesday 22:40:16:WARNING: Recommendation list of 999098 is empty. Consider it as miss.
+2022-08-30 Tuesday 22:41:58:WARNING: Bug 999169 has 0 candidates!
+2022-08-30 Tuesday 22:41:58:WARNING: Recommendation list of 999169 is empty. Consider it as miss.
+2022-08-30 Tuesday 22:46:27:WARNING: Bug 999280 has 0 candidates!
+2022-08-30 Tuesday 22:46:27:WARNING: Recommendation list of 999280 is empty. Consider it as miss.
+2022-08-30 Tuesday 22:49:49:WARNING: Bug 999382 has 0 candidates!
+2022-08-30 Tuesday 22:49:49:WARNING: Recommendation list of 999382 is empty. Consider it as miss.
+2022-08-30 Tuesday 22:50:23:WARNING: Bug 999387 has 0 candidates!
+2022-08-30 Tuesday 22:50:23:WARNING: Recommendation list of 999387 is empty. Consider it as miss.
+2022-08-30 Tuesday 22:55:24:WARNING: Bug 999544 has 0 candidates!
+2022-08-30 Tuesday 22:55:24:WARNING: Recommendation list of 999544 is empty. Consider it as miss.
+2022-08-30 Tuesday 23:03:52:WARNING: Bug 999893 has 0 candidates!
+2022-08-30 Tuesday 23:03:52:WARNING: Recommendation list of 999893 is empty. Consider it as miss.
+2022-08-30 Tuesday 23:24:39:WARNING: Bug 1000169 has 0 candidates!
+2022-08-30 Tuesday 23:24:39:WARNING: Recommendation list of 1000169 is empty. Consider it as miss.
+2022-08-30 Tuesday 23:35:25:INFO: RR calculation - 500 duplicate reports were processed
+2022-08-30 Tuesday 23:35:25:WARNING: Bug 1000398 has 0 candidates!
+2022-08-30 Tuesday 23:35:25:WARNING: Recommendation list of 1000398 is empty. Consider it as miss.
+2022-08-30 Tuesday 23:35:25:WARNING: Bug 1000407 has 0 candidates!
+2022-08-30 Tuesday 23:35:25:WARNING: Recommendation list of 1000407 is empty. Consider it as miss.
+2022-08-30 Tuesday 23:37:07:WARNING: Bug 1000507 has 0 candidates!
+2022-08-30 Tuesday 23:37:07:WARNING: Recommendation list of 1000507 is empty. Consider it as miss.
+2022-08-30 Tuesday 23:38:49:WARNING: Bug 1000531 has 0 candidates!
+2022-08-30 Tuesday 23:38:49:WARNING: Recommendation list of 1000531 is empty. Consider it as miss.
+2022-08-30 Tuesday 23:42:12:WARNING: Bug 1000606 has 0 candidates!
+2022-08-30 Tuesday 23:42:12:WARNING: Recommendation list of 1000606 is empty. Consider it as miss.
+2022-08-30 Tuesday 23:50:08:WARNING: Bug 1000758 has 0 candidates!
+2022-08-30 Tuesday 23:50:08:WARNING: Recommendation list of 1000758 is empty. Consider it as miss.
+2022-08-31 Wednesday 00:03:38:WARNING: Bug 1001203 has 0 candidates!
+2022-08-31 Wednesday 00:03:38:WARNING: Recommendation list of 1001203 is empty. Consider it as miss.
+2022-08-31 Wednesday 00:08:11:WARNING: Bug 1001365 has 0 candidates!
+2022-08-31 Wednesday 00:08:11:WARNING: Recommendation list of 1001365 is empty. Consider it as miss.
+2022-08-31 Wednesday 00:17:18:WARNING: Bug 1001654 has 0 candidates!
+2022-08-31 Wednesday 00:17:18:WARNING: Recommendation list of 1001654 is empty. Consider it as miss.
+2022-08-31 Wednesday 00:21:14:WARNING: Bug 1001797 has 0 candidates!
+2022-08-31 Wednesday 00:21:14:WARNING: Recommendation list of 1001797 is empty. Consider it as miss.
+2022-08-31 Wednesday 00:25:10:WARNING: Bug 1001940 has 0 candidates!
+2022-08-31 Wednesday 00:25:10:WARNING: Recommendation list of 1001940 is empty. Consider it as miss.
+2022-08-31 Wednesday 00:27:57:WARNING: Bug 1002010 has 0 candidates!
+2022-08-31 Wednesday 00:27:57:WARNING: Recommendation list of 1002010 is empty. Consider it as miss.
+2022-08-31 Wednesday 00:37:03:WARNING: Bug 1002384 has 0 candidates!
+2022-08-31 Wednesday 00:37:03:WARNING: Recommendation list of 1002384 is empty. Consider it as miss.
+2022-08-31 Wednesday 00:40:59:WARNING: Bug 1002523 has 0 candidates!
+2022-08-31 Wednesday 00:40:59:WARNING: Recommendation list of 1002523 is empty. Consider it as miss.
+2022-08-31 Wednesday 01:04:11:WARNING: Bug 1003033 has 0 candidates!
+2022-08-31 Wednesday 01:04:11:WARNING: Recommendation list of 1003033 is empty. Consider it as miss.
+2022-08-31 Wednesday 01:16:39:WARNING: Bug 1003242 has 0 candidates!
+2022-08-31 Wednesday 01:16:39:WARNING: Recommendation list of 1003242 is empty. Consider it as miss.
+2022-08-31 Wednesday 01:18:20:WARNING: Bug 1003300 has 0 candidates!
+2022-08-31 Wednesday 01:18:20:WARNING: Recommendation list of 1003300 is empty. Consider it as miss.
+2022-08-31 Wednesday 01:26:15:WARNING: Bug 1003571 has 0 candidates!
+2022-08-31 Wednesday 01:26:15:WARNING: Recommendation list of 1003571 is empty. Consider it as miss.
+2022-08-31 Wednesday 01:53:25:WARNING: Bug 1004118 has 0 candidates!
+2022-08-31 Wednesday 01:53:25:WARNING: Recommendation list of 1004118 is empty. Consider it as miss.
+2022-08-31 Wednesday 01:55:41:WARNING: Bug 1004275 has 0 candidates!
+2022-08-31 Wednesday 01:55:41:WARNING: Recommendation list of 1004275 is empty. Consider it as miss.
+2022-08-31 Wednesday 01:56:16:WARNING: Bug 1004323 has 0 candidates!
+2022-08-31 Wednesday 01:56:16:WARNING: Recommendation list of 1004323 is empty. Consider it as miss.
+2022-08-31 Wednesday 01:56:16:WARNING: Bug 1004356 has 0 candidates!
+2022-08-31 Wednesday 01:56:16:WARNING: Recommendation list of 1004356 is empty. Consider it as miss.
+2022-08-31 Wednesday 01:57:58:WARNING: Bug 1004378 has 0 candidates!
+2022-08-31 Wednesday 01:57:58:WARNING: Recommendation list of 1004378 is empty. Consider it as miss.
+2022-08-31 Wednesday 02:01:55:WARNING: Bug 1004408 has 0 candidates!
+2022-08-31 Wednesday 02:01:55:WARNING: Recommendation list of 1004408 is empty. Consider it as miss.
+2022-08-31 Wednesday 02:18:22:WARNING: Bug 1004681 has 0 candidates!
+2022-08-31 Wednesday 02:18:22:WARNING: Recommendation list of 1004681 is empty. Consider it as miss.
+2022-08-31 Wednesday 02:19:29:WARNING: Bug 1004729 has 0 candidates!
+2022-08-31 Wednesday 02:19:29:WARNING: Recommendation list of 1004729 is empty. Consider it as miss.
+2022-08-31 Wednesday 02:33:38:WARNING: Bug 1005013 has 0 candidates!
+2022-08-31 Wednesday 02:33:38:WARNING: Recommendation list of 1005013 is empty. Consider it as miss.
+2022-08-31 Wednesday 02:36:28:WARNING: Bug 1005123 has 0 candidates!
+2022-08-31 Wednesday 02:36:28:WARNING: Recommendation list of 1005123 is empty. Consider it as miss.
+2022-08-31 Wednesday 02:44:23:WARNING: Bug 1005304 has 0 candidates!
+2022-08-31 Wednesday 02:44:23:WARNING: Recommendation list of 1005304 is empty. Consider it as miss.
+2022-08-31 Wednesday 02:47:46:WARNING: Bug 1005363 has 0 candidates!
+2022-08-31 Wednesday 02:47:46:WARNING: Recommendation list of 1005363 is empty. Consider it as miss.
+2022-08-31 Wednesday 03:10:20:WARNING: Bug 1005546 has 0 candidates!
+2022-08-31 Wednesday 03:10:20:WARNING: Recommendation list of 1005546 is empty. Consider it as miss.
+2022-08-31 Wednesday 03:15:25:WARNING: Bug 1005625 has 0 candidates!
+2022-08-31 Wednesday 03:15:25:WARNING: Recommendation list of 1005625 is empty. Consider it as miss.
+2022-08-31 Wednesday 03:16:33:WARNING: Bug 1005640 has 0 candidates!
+2022-08-31 Wednesday 03:16:33:WARNING: Recommendation list of 1005640 is empty. Consider it as miss.
+2022-08-31 Wednesday 03:58:55:WARNING: Bug 1006264 has 0 candidates!
+2022-08-31 Wednesday 03:58:55:WARNING: Recommendation list of 1006264 is empty. Consider it as miss.
+2022-08-31 Wednesday 03:58:55:INFO: RR calculation - 1000 duplicate reports were processed
+2022-08-31 Wednesday 04:10:50:WARNING: Bug 1006568 has 0 candidates!
+2022-08-31 Wednesday 04:10:50:WARNING: Recommendation list of 1006568 is empty. Consider it as miss.
+2022-08-31 Wednesday 04:15:23:WARNING: Bug 1006654 has 0 candidates!
+2022-08-31 Wednesday 04:15:23:WARNING: Recommendation list of 1006654 is empty. Consider it as miss.
+2022-08-31 Wednesday 04:41:32:WARNING: Bug 1007052 has 0 candidates!
+2022-08-31 Wednesday 04:41:32:WARNING: Recommendation list of 1007052 is empty. Consider it as miss.
+2022-08-31 Wednesday 04:43:15:WARNING: Bug 1007067 has 0 candidates!
+2022-08-31 Wednesday 04:43:15:WARNING: Recommendation list of 1007067 is empty. Consider it as miss.
+2022-08-31 Wednesday 04:48:57:WARNING: Bug 1007202 has 0 candidates!
+2022-08-31 Wednesday 04:48:57:WARNING: Recommendation list of 1007202 is empty. Consider it as miss.
+2022-08-31 Wednesday 04:50:41:WARNING: Bug 1007223 has 0 candidates!
+2022-08-31 Wednesday 04:50:41:WARNING: Recommendation list of 1007223 is empty. Consider it as miss.
+2022-08-31 Wednesday 04:51:15:WARNING: Bug 1007268 has 0 candidates!
+2022-08-31 Wednesday 04:51:15:WARNING: Recommendation list of 1007268 is empty. Consider it as miss.
+2022-08-31 Wednesday 05:00:58:WARNING: Bug 1007535 has 0 candidates!
+2022-08-31 Wednesday 05:00:58:WARNING: Recommendation list of 1007535 is empty. Consider it as miss.
+2022-08-31 Wednesday 05:09:32:WARNING: Bug 1007680 has 0 candidates!
+2022-08-31 Wednesday 05:09:32:WARNING: Recommendation list of 1007680 is empty. Consider it as miss.
+2022-08-31 Wednesday 05:10:07:WARNING: Bug 1007702 has 0 candidates!
+2022-08-31 Wednesday 05:10:07:WARNING: Recommendation list of 1007702 is empty. Consider it as miss.
+2022-08-31 Wednesday 05:14:08:WARNING: Bug 1007783 has 0 candidates!
+2022-08-31 Wednesday 05:14:08:WARNING: Recommendation list of 1007783 is empty. Consider it as miss.
+2022-08-31 Wednesday 05:23:18:WARNING: Bug 1007985 has 0 candidates!
+2022-08-31 Wednesday 05:23:18:WARNING: Recommendation list of 1007985 is empty. Consider it as miss.
+2022-08-31 Wednesday 05:23:52:WARNING: Bug 1008008 has 0 candidates!
+2022-08-31 Wednesday 05:23:52:WARNING: Recommendation list of 1008008 is empty. Consider it as miss.
+2022-08-31 Wednesday 05:30:42:WARNING: Bug 1008112 has 0 candidates!
+2022-08-31 Wednesday 05:30:42:WARNING: Recommendation list of 1008112 is empty. Consider it as miss.
+2022-08-31 Wednesday 06:05:29:WARNING: Bug 1008754 has 0 candidates!
+2022-08-31 Wednesday 06:05:29:WARNING: Recommendation list of 1008754 is empty. Consider it as miss.
+2022-08-31 Wednesday 06:05:29:WARNING: Bug 1008755 has 0 candidates!
+2022-08-31 Wednesday 06:05:29:WARNING: Recommendation list of 1008755 is empty. Consider it as miss.
+2022-08-31 Wednesday 06:14:01:WARNING: Bug 1008902 has 0 candidates!
+2022-08-31 Wednesday 06:14:01:WARNING: Recommendation list of 1008902 is empty. Consider it as miss.
+2022-08-31 Wednesday 06:15:12:WARNING: Bug 1008976 has 0 candidates!
+2022-08-31 Wednesday 06:15:12:WARNING: Recommendation list of 1008976 is empty. Consider it as miss.
+2022-08-31 Wednesday 06:27:48:WARNING: Bug 1009287 has 0 candidates!
+2022-08-31 Wednesday 06:27:48:WARNING: Recommendation list of 1009287 is empty. Consider it as miss.
+2022-08-31 Wednesday 06:43:13:WARNING: Bug 1009566 has 0 candidates!
+2022-08-31 Wednesday 06:43:13:WARNING: Recommendation list of 1009566 is empty. Consider it as miss.
+2022-08-31 Wednesday 06:43:13:WARNING: Bug 1009576 has 0 candidates!
+2022-08-31 Wednesday 06:43:13:WARNING: Recommendation list of 1009576 is empty. Consider it as miss.
+2022-08-31 Wednesday 06:47:14:WARNING: Bug 1009618 has 0 candidates!
+2022-08-31 Wednesday 06:47:14:WARNING: Recommendation list of 1009618 is empty. Consider it as miss.
+2022-08-31 Wednesday 06:56:58:WARNING: Bug 1009829 has 0 candidates!
+2022-08-31 Wednesday 06:56:58:WARNING: Recommendation list of 1009829 is empty. Consider it as miss.
+2022-08-31 Wednesday 06:56:59:WARNING: Bug 1009866 has 0 candidates!
+2022-08-31 Wednesday 06:56:59:WARNING: Recommendation list of 1009866 is empty. Consider it as miss.
+2022-08-31 Wednesday 07:15:18:WARNING: Bug 1010199 has 0 candidates!
+2022-08-31 Wednesday 07:15:19:WARNING: Recommendation list of 1010199 is empty. Consider it as miss.
+2022-08-31 Wednesday 07:22:45:WARNING: Bug 1010297 has 0 candidates!
+2022-08-31 Wednesday 07:22:45:WARNING: Recommendation list of 1010297 is empty. Consider it as miss.
+2022-08-31 Wednesday 07:23:54:WARNING: Bug 1010330 has 0 candidates!
+2022-08-31 Wednesday 07:23:54:WARNING: Recommendation list of 1010330 is empty. Consider it as miss.
+2022-08-31 Wednesday 07:33:41:WARNING: Bug 1010602 has 0 candidates!
+2022-08-31 Wednesday 07:33:41:WARNING: Recommendation list of 1010602 is empty. Consider it as miss.
+2022-08-31 Wednesday 07:38:16:WARNING: Bug 1010687 has 0 candidates!
+2022-08-31 Wednesday 07:38:16:WARNING: Recommendation list of 1010687 is empty. Consider it as miss.
+2022-08-31 Wednesday 07:42:17:WARNING: Bug 1010975 has 0 candidates!
+2022-08-31 Wednesday 07:42:17:WARNING: Recommendation list of 1010975 is empty. Consider it as miss.
+2022-08-31 Wednesday 07:54:27:WARNING: Bug 1011273 has 0 candidates!
+2022-08-31 Wednesday 07:54:27:WARNING: Recommendation list of 1011273 is empty. Consider it as miss.
+2022-08-31 Wednesday 08:06:38:WARNING: Bug 1011509 has 0 candidates!
+2022-08-31 Wednesday 08:06:38:WARNING: Recommendation list of 1011509 is empty. Consider it as miss.
+2022-08-31 Wednesday 08:11:15:WARNING: Bug 1011637 has 0 candidates!
+2022-08-31 Wednesday 08:11:15:WARNING: Recommendation list of 1011637 is empty. Consider it as miss.
+2022-08-31 Wednesday 08:13:01:WARNING: Bug 1011704 has 0 candidates!
+2022-08-31 Wednesday 08:13:01:WARNING: Recommendation list of 1011704 is empty. Consider it as miss.
+2022-08-31 Wednesday 08:13:36:WARNING: Bug 1011712 has 0 candidates!
+2022-08-31 Wednesday 08:13:37:WARNING: Recommendation list of 1011712 is empty. Consider it as miss.
+2022-08-31 Wednesday 08:22:15:WARNING: Bug 1011866 has 0 candidates!
+2022-08-31 Wednesday 08:22:15:WARNING: Recommendation list of 1011866 is empty. Consider it as miss.
+2022-08-31 Wednesday 08:24:34:INFO: RR calculation - 1500 duplicate reports were processed
+2022-08-31 Wednesday 08:37:21:WARNING: Bug 1012440 has 0 candidates!
+2022-08-31 Wednesday 08:37:21:WARNING: Recommendation list of 1012440 is empty. Consider it as miss.
+2022-08-31 Wednesday 08:45:59:WARNING: Bug 1012575 has 0 candidates!
+2022-08-31 Wednesday 08:45:59:WARNING: Recommendation list of 1012575 is empty. Consider it as miss.
+2022-08-31 Wednesday 08:54:04:WARNING: Bug 1012739 has 0 candidates!
+2022-08-31 Wednesday 08:54:04:WARNING: Recommendation list of 1012739 is empty. Consider it as miss.
+2022-08-31 Wednesday 08:54:04:WARNING: Bug 1012742 has 0 candidates!
+2022-08-31 Wednesday 08:54:04:WARNING: Recommendation list of 1012742 is empty. Consider it as miss.
+2022-08-31 Wednesday 09:09:46:WARNING: Bug 1013077 has 0 candidates!
+2022-08-31 Wednesday 09:09:47:WARNING: Recommendation list of 1013077 is empty. Consider it as miss.
+2022-08-31 Wednesday 09:12:06:WARNING: Bug 1013098 has 0 candidates!
+2022-08-31 Wednesday 09:12:06:WARNING: Recommendation list of 1013098 is empty. Consider it as miss.
+2022-08-31 Wednesday 09:16:43:WARNING: Bug 1013255 has 0 candidates!
+2022-08-31 Wednesday 09:16:43:WARNING: Recommendation list of 1013255 is empty. Consider it as miss.
+2022-08-31 Wednesday 09:25:39:WARNING: Bug 1013385 has 0 candidates!
+2022-08-31 Wednesday 09:25:39:WARNING: Recommendation list of 1013385 is empty. Consider it as miss.
+2022-08-31 Wednesday 09:25:40:WARNING: Bug 1013390 has 0 candidates!
+2022-08-31 Wednesday 09:25:40:WARNING: Recommendation list of 1013390 is empty. Consider it as miss.
+2022-08-31 Wednesday 09:25:40:WARNING: Bug 1013403 has 0 candidates!
+2022-08-31 Wednesday 09:25:40:WARNING: Recommendation list of 1013403 is empty. Consider it as miss.
+2022-08-31 Wednesday 09:25:40:WARNING: Bug 1013414 has 0 candidates!
+2022-08-31 Wednesday 09:25:40:WARNING: Recommendation list of 1013414 is empty. Consider it as miss.
+2022-08-31 Wednesday 09:31:28:WARNING: Bug 1013587 has 0 candidates!
+2022-08-31 Wednesday 09:31:28:WARNING: Recommendation list of 1013587 is empty. Consider it as miss.
+2022-08-31 Wednesday 09:32:03:WARNING: Bug 1013621 has 0 candidates!
+2022-08-31 Wednesday 09:32:03:WARNING: Recommendation list of 1013621 is empty. Consider it as miss.
+2022-08-31 Wednesday 09:37:16:WARNING: Bug 1013738 has 0 candidates!
+2022-08-31 Wednesday 09:37:16:WARNING: Recommendation list of 1013738 is empty. Consider it as miss.
+2022-08-31 Wednesday 09:39:40:WARNING: Bug 1013785 has 0 candidates!
+2022-08-31 Wednesday 09:39:40:WARNING: Recommendation list of 1013785 is empty. Consider it as miss.
+2022-08-31 Wednesday 09:42:00:WARNING: Bug 1013810 has 0 candidates!
+2022-08-31 Wednesday 09:42:00:WARNING: Recommendation list of 1013810 is empty. Consider it as miss.
+2022-08-31 Wednesday 09:43:10:WARNING: Bug 1013836 has 0 candidates!
+2022-08-31 Wednesday 09:43:10:WARNING: Recommendation list of 1013836 is empty. Consider it as miss.
+2022-08-31 Wednesday 09:48:24:WARNING: Bug 1013926 has 0 candidates!
+2022-08-31 Wednesday 09:48:24:WARNING: Recommendation list of 1013926 is empty. Consider it as miss.
+2022-08-31 Wednesday 10:12:26:WARNING: Bug 1014416 has 0 candidates!
+2022-08-31 Wednesday 10:12:26:WARNING: Recommendation list of 1014416 is empty. Consider it as miss.
+2022-08-31 Wednesday 10:26:30:WARNING: Bug 1014810 has 0 candidates!
+2022-08-31 Wednesday 10:26:30:WARNING: Recommendation list of 1014810 is empty. Consider it as miss.
+2022-08-31 Wednesday 10:27:05:WARNING: Bug 1014817 has 0 candidates!
+2022-08-31 Wednesday 10:27:05:WARNING: Recommendation list of 1014817 is empty. Consider it as miss.
+2022-08-31 Wednesday 10:27:05:WARNING: Bug 1014842 has 0 candidates!
+2022-08-31 Wednesday 10:27:05:WARNING: Recommendation list of 1014842 is empty. Consider it as miss.
+2022-08-31 Wednesday 10:27:06:WARNING: Bug 1014900 has 0 candidates!
+2022-08-31 Wednesday 10:27:06:WARNING: Recommendation list of 1014900 is empty. Consider it as miss.
+2022-08-31 Wednesday 10:27:40:WARNING: Bug 1014917 has 0 candidates!
+2022-08-31 Wednesday 10:27:40:WARNING: Recommendation list of 1014917 is empty. Consider it as miss.
+2022-08-31 Wednesday 10:31:11:WARNING: Bug 1014969 has 0 candidates!
+2022-08-31 Wednesday 10:31:11:WARNING: Recommendation list of 1014969 is empty. Consider it as miss.
+2022-08-31 Wednesday 10:47:50:WARNING: Bug 1015270 has 0 candidates!
+2022-08-31 Wednesday 10:47:50:WARNING: Recommendation list of 1015270 is empty. Consider it as miss.
+2022-08-31 Wednesday 11:02:19:WARNING: Bug 1015506 has 0 candidates!
+2022-08-31 Wednesday 11:02:19:WARNING: Recommendation list of 1015506 is empty. Consider it as miss.
+2022-08-31 Wednesday 11:05:14:WARNING: Bug 1015603 has 0 candidates!
+2022-08-31 Wednesday 11:05:14:WARNING: Recommendation list of 1015603 is empty. Consider it as miss.
+2022-08-31 Wednesday 11:06:25:WARNING: Bug 1015620 has 0 candidates!
+2022-08-31 Wednesday 11:06:25:WARNING: Recommendation list of 1015620 is empty. Consider it as miss.
+2022-08-31 Wednesday 11:06:26:WARNING: Bug 1015631 has 0 candidates!
+2022-08-31 Wednesday 11:06:26:WARNING: Recommendation list of 1015631 is empty. Consider it as miss.
+2022-08-31 Wednesday 11:16:14:WARNING: Bug 1015837 has 0 candidates!
+2022-08-31 Wednesday 11:16:14:WARNING: Recommendation list of 1015837 is empty. Consider it as miss.
+2022-08-31 Wednesday 11:39:30:WARNING: Bug 1016260 has 0 candidates!
+2022-08-31 Wednesday 11:39:30:WARNING: Recommendation list of 1016260 is empty. Consider it as miss.
+2022-08-31 Wednesday 11:44:09:WARNING: Bug 1016365 has 0 candidates!
+2022-08-31 Wednesday 11:44:09:WARNING: Recommendation list of 1016365 is empty. Consider it as miss.
+2022-08-31 Wednesday 11:53:27:WARNING: Bug 1016548 has 0 candidates!
+2022-08-31 Wednesday 11:53:27:WARNING: Recommendation list of 1016548 is empty. Consider it as miss.
+2022-08-31 Wednesday 12:30:48:WARNING: Bug 1017467 has 0 candidates!
+2022-08-31 Wednesday 12:30:48:WARNING: Recommendation list of 1017467 is empty. Consider it as miss.
+2022-08-31 Wednesday 12:35:27:WARNING: Bug 1017511 has 0 candidates!
+2022-08-31 Wednesday 12:35:27:WARNING: Recommendation list of 1017511 is empty. Consider it as miss.
+2022-08-31 Wednesday 12:42:01:WARNING: Bug 1017591 has 0 candidates!
+2022-08-31 Wednesday 12:42:01:WARNING: Recommendation list of 1017591 is empty. Consider it as miss.
+2022-08-31 Wednesday 12:53:06:WARNING: Bug 1017817 has 0 candidates!
+2022-08-31 Wednesday 12:53:06:WARNING: Recommendation list of 1017817 is empty. Consider it as miss.
+2022-08-31 Wednesday 12:54:57:INFO: RR calculation - 2000 duplicate reports were processed
+2022-08-31 Wednesday 12:57:53:WARNING: Bug 1017939 has 0 candidates!
+2022-08-31 Wednesday 12:57:53:WARNING: Recommendation list of 1017939 is empty. Consider it as miss.
+2022-08-31 Wednesday 13:07:50:WARNING: Bug 1018203 has 0 candidates!
+2022-08-31 Wednesday 13:07:50:WARNING: Recommendation list of 1018203 is empty. Consider it as miss.
+2022-08-31 Wednesday 13:18:21:WARNING: Bug 1018419 has 0 candidates!
+2022-08-31 Wednesday 13:18:21:WARNING: Recommendation list of 1018419 is empty. Consider it as miss.
+2022-08-31 Wednesday 13:20:58:WARNING: Bug 1018491 has 0 candidates!
+2022-08-31 Wednesday 13:20:58:WARNING: Recommendation list of 1018491 is empty. Consider it as miss.
+2022-08-31 Wednesday 13:24:37:WARNING: Bug 1018571 has 0 candidates!
+2022-08-31 Wednesday 13:24:37:WARNING: Recommendation list of 1018571 is empty. Consider it as miss.
+2022-08-31 Wednesday 13:31:05:WARNING: Bug 1018715 has 0 candidates!
+2022-08-31 Wednesday 13:31:05:WARNING: Recommendation list of 1018715 is empty. Consider it as miss.
+2022-08-31 Wednesday 14:17:06:WARNING: Bug 1019331 has 0 candidates!
+2022-08-31 Wednesday 14:17:07:WARNING: Recommendation list of 1019331 is empty. Consider it as miss.
+2022-08-31 Wednesday 14:18:52:WARNING: Bug 1019344 has 0 candidates!
+2022-08-31 Wednesday 14:18:52:WARNING: Recommendation list of 1019344 is empty. Consider it as miss.
+2022-08-31 Wednesday 14:41:23:WARNING: Bug 1019695 has 0 candidates!
+2022-08-31 Wednesday 14:41:23:WARNING: Recommendation list of 1019695 is empty. Consider it as miss.
+2022-08-31 Wednesday 14:43:19:WARNING: Bug 1019787 has 0 candidates!
+2022-08-31 Wednesday 14:43:19:WARNING: Recommendation list of 1019787 is empty. Consider it as miss.
+2022-08-31 Wednesday 14:58:07:WARNING: Bug 1020126 has 0 candidates!
+2022-08-31 Wednesday 14:58:07:WARNING: Recommendation list of 1020126 is empty. Consider it as miss.
+2022-08-31 Wednesday 14:58:46:WARNING: Bug 1020135 has 0 candidates!
+2022-08-31 Wednesday 14:58:46:WARNING: Recommendation list of 1020135 is empty. Consider it as miss.
+2022-08-31 Wednesday 15:02:22:WARNING: Bug 1020199 has 0 candidates!
+2022-08-31 Wednesday 15:02:22:WARNING: Recommendation list of 1020199 is empty. Consider it as miss.
+2022-08-31 Wednesday 15:05:20:WARNING: Bug 1020242 has 0 candidates!
+2022-08-31 Wednesday 15:05:20:WARNING: Recommendation list of 1020242 is empty. Consider it as miss.
+2022-08-31 Wednesday 15:34:24:WARNING: Bug 1020922 has 0 candidates!
+2022-08-31 Wednesday 15:34:24:WARNING: Recommendation list of 1020922 is empty. Consider it as miss.
+2022-08-31 Wednesday 15:44:28:WARNING: Bug 1021231 has 0 candidates!
+2022-08-31 Wednesday 15:44:28:WARNING: Recommendation list of 1021231 is empty. Consider it as miss.
+2022-08-31 Wednesday 15:53:17:WARNING: Bug 1021412 has 0 candidates!
+2022-08-31 Wednesday 15:53:17:WARNING: Recommendation list of 1021412 is empty. Consider it as miss.
+2022-08-31 Wednesday 16:49:40:WARNING: Bug 1022233 has 0 candidates!
+2022-08-31 Wednesday 16:49:40:WARNING: Recommendation list of 1022233 is empty. Consider it as miss.
+2022-08-31 Wednesday 16:54:21:WARNING: Bug 1022397 has 0 candidates!
+2022-08-31 Wednesday 16:54:21:WARNING: Recommendation list of 1022397 is empty. Consider it as miss.
+2022-08-31 Wednesday 16:54:22:WARNING: Bug 1022399 has 0 candidates!
+2022-08-31 Wednesday 16:54:22:WARNING: Recommendation list of 1022399 is empty. Consider it as miss.
+2022-08-31 Wednesday 16:54:58:WARNING: Bug 1022408 has 0 candidates!
+2022-08-31 Wednesday 16:54:58:WARNING: Recommendation list of 1022408 is empty. Consider it as miss.
+2022-08-31 Wednesday 16:59:05:WARNING: Bug 1022505 has 0 candidates!
+2022-08-31 Wednesday 16:59:05:WARNING: Recommendation list of 1022505 is empty. Consider it as miss.
+2022-08-31 Wednesday 17:06:09:WARNING: Bug 1022707 has 0 candidates!
+2022-08-31 Wednesday 17:06:09:WARNING: Recommendation list of 1022707 is empty. Consider it as miss.
+2022-08-31 Wednesday 17:07:20:WARNING: Bug 1022740 has 0 candidates!
+2022-08-31 Wednesday 17:07:20:WARNING: Recommendation list of 1022740 is empty. Consider it as miss.
+2022-08-31 Wednesday 17:12:01:WARNING: Bug 1022857 has 0 candidates!
+2022-08-31 Wednesday 17:12:02:WARNING: Recommendation list of 1022857 is empty. Consider it as miss.
+2022-08-31 Wednesday 17:33:52:WARNING: Bug 1023374 has 0 candidates!
+2022-08-31 Wednesday 17:33:52:WARNING: Recommendation list of 1023374 is empty. Consider it as miss.
+2022-08-31 Wednesday 17:35:04:INFO: RR calculation - 2500 duplicate reports were processed
+2022-08-31 Wednesday 17:38:00:WARNING: Bug 1023488 has 0 candidates!
+2022-08-31 Wednesday 17:38:00:WARNING: Recommendation list of 1023488 is empty. Consider it as miss.
+2022-08-31 Wednesday 17:38:36:WARNING: Bug 1023511 has 0 candidates!
+2022-08-31 Wednesday 17:38:36:WARNING: Recommendation list of 1023511 is empty. Consider it as miss.
+2022-08-31 Wednesday 17:48:01:WARNING: Bug 1023658 has 0 candidates!
+2022-08-31 Wednesday 17:48:01:WARNING: Recommendation list of 1023658 is empty. Consider it as miss.
+2022-08-31 Wednesday 17:48:01:WARNING: Bug 1023662 has 0 candidates!
+2022-08-31 Wednesday 17:48:01:WARNING: Recommendation list of 1023662 is empty. Consider it as miss.
+2022-08-31 Wednesday 17:48:02:WARNING: Bug 1023663 has 0 candidates!
+2022-08-31 Wednesday 17:48:02:WARNING: Recommendation list of 1023663 is empty. Consider it as miss.
+2022-08-31 Wednesday 17:52:10:WARNING: Bug 1023735 has 0 candidates!
+2022-08-31 Wednesday 17:52:10:WARNING: Recommendation list of 1023735 is empty. Consider it as miss.
+2022-08-31 Wednesday 17:53:57:WARNING: Bug 1023750 has 0 candidates!
+2022-08-31 Wednesday 17:53:57:WARNING: Recommendation list of 1023750 is empty. Consider it as miss.
+2022-08-31 Wednesday 17:53:57:WARNING: Bug 1023776 has 0 candidates!
+2022-08-31 Wednesday 17:53:57:WARNING: Recommendation list of 1023776 is empty. Consider it as miss.
+2022-08-31 Wednesday 18:14:46:WARNING: Bug 1024191 has 0 candidates!
+2022-08-31 Wednesday 18:14:46:WARNING: Recommendation list of 1024191 is empty. Consider it as miss.
+2022-08-31 Wednesday 18:15:21:WARNING: Bug 1024238 has 0 candidates!
+2022-08-31 Wednesday 18:15:22:WARNING: Recommendation list of 1024238 is empty. Consider it as miss.
+2022-08-31 Wednesday 18:22:26:WARNING: Bug 1024309 has 0 candidates!
+2022-08-31 Wednesday 18:22:26:WARNING: Recommendation list of 1024309 is empty. Consider it as miss.
+2022-08-31 Wednesday 18:30:44:WARNING: Bug 1024491 has 0 candidates!
+2022-08-31 Wednesday 18:30:44:WARNING: Recommendation list of 1024491 is empty. Consider it as miss.
+2022-08-31 Wednesday 18:33:41:WARNING: Bug 1024533 has 0 candidates!
+2022-08-31 Wednesday 18:33:41:WARNING: Recommendation list of 1024533 is empty. Consider it as miss.
+2022-08-31 Wednesday 18:40:13:WARNING: Bug 1024682 has 0 candidates!
+2022-08-31 Wednesday 18:40:13:WARNING: Recommendation list of 1024682 is empty. Consider it as miss.
+2022-08-31 Wednesday 18:43:46:WARNING: Bug 1024807 has 0 candidates!
+2022-08-31 Wednesday 18:43:46:WARNING: Recommendation list of 1024807 is empty. Consider it as miss.
+2022-08-31 Wednesday 18:44:22:WARNING: Bug 1024843 has 0 candidates!
+2022-08-31 Wednesday 18:44:22:WARNING: Recommendation list of 1024843 is empty. Consider it as miss.
+2022-08-31 Wednesday 19:05:05:WARNING: Bug 1025447 has 0 candidates!
+2022-08-31 Wednesday 19:05:05:WARNING: Recommendation list of 1025447 is empty. Consider it as miss.
+2022-08-31 Wednesday 19:06:17:WARNING: Bug 1025468 has 0 candidates!
+2022-08-31 Wednesday 19:06:17:WARNING: Recommendation list of 1025468 is empty. Consider it as miss.
+2022-08-31 Wednesday 19:11:38:WARNING: Bug 1025603 has 0 candidates!
+2022-08-31 Wednesday 19:11:38:WARNING: Recommendation list of 1025603 is empty. Consider it as miss.
+2022-08-31 Wednesday 19:21:05:WARNING: Bug 1025787 has 0 candidates!
+2022-08-31 Wednesday 19:21:05:WARNING: Recommendation list of 1025787 is empty. Consider it as miss.
+2022-08-31 Wednesday 19:35:18:WARNING: Bug 1026094 has 0 candidates!
+2022-08-31 Wednesday 19:35:18:WARNING: Recommendation list of 1026094 is empty. Consider it as miss.
+2022-08-31 Wednesday 19:37:41:WARNING: Bug 1026147 has 0 candidates!
+2022-08-31 Wednesday 19:37:41:WARNING: Recommendation list of 1026147 is empty. Consider it as miss.
+2022-08-31 Wednesday 19:43:03:WARNING: Bug 1026362 has 0 candidates!
+2022-08-31 Wednesday 19:43:03:WARNING: Recommendation list of 1026362 is empty. Consider it as miss.
+2022-08-31 Wednesday 19:50:11:WARNING: Bug 1026543 has 0 candidates!
+2022-08-31 Wednesday 19:50:11:WARNING: Recommendation list of 1026543 is empty. Consider it as miss.
+2022-08-31 Wednesday 19:57:55:WARNING: Bug 1026658 has 0 candidates!
+2022-08-31 Wednesday 19:57:55:WARNING: Recommendation list of 1026658 is empty. Consider it as miss.
+2022-08-31 Wednesday 20:13:56:WARNING: Bug 1026985 has 0 candidates!
+2022-08-31 Wednesday 20:13:56:WARNING: Recommendation list of 1026985 is empty. Consider it as miss.
+2022-08-31 Wednesday 20:13:56:WARNING: Bug 1026989 has 0 candidates!
+2022-08-31 Wednesday 20:13:56:WARNING: Recommendation list of 1026989 is empty. Consider it as miss.
+2022-08-31 Wednesday 20:13:56:WARNING: Bug 1027001 has 0 candidates!
+2022-08-31 Wednesday 20:13:56:WARNING: Recommendation list of 1027001 is empty. Consider it as miss.
+2022-08-31 Wednesday 20:29:26:WARNING: Bug 1027321 has 0 candidates!
+2022-08-31 Wednesday 20:29:26:WARNING: Recommendation list of 1027321 is empty. Consider it as miss.
+2022-08-31 Wednesday 20:45:12:WARNING: Bug 1027651 has 0 candidates!
+2022-08-31 Wednesday 20:45:12:WARNING: Recommendation list of 1027651 is empty. Consider it as miss.
+2022-08-31 Wednesday 20:46:59:WARNING: Bug 1027718 has 0 candidates!
+2022-08-31 Wednesday 20:46:59:WARNING: Recommendation list of 1027718 is empty. Consider it as miss.
+2022-08-31 Wednesday 20:47:00:WARNING: Bug 1027727 has 0 candidates!
+2022-08-31 Wednesday 20:47:00:WARNING: Recommendation list of 1027727 is empty. Consider it as miss.
+2022-08-31 Wednesday 21:05:23:WARNING: Bug 1028115 has 0 candidates!
+2022-08-31 Wednesday 21:05:23:WARNING: Recommendation list of 1028115 is empty. Consider it as miss.
+2022-08-31 Wednesday 21:06:35:WARNING: Bug 1028153 has 0 candidates!
+2022-08-31 Wednesday 21:06:35:WARNING: Recommendation list of 1028153 is empty. Consider it as miss.
+2022-08-31 Wednesday 21:14:17:WARNING: Bug 1028412 has 0 candidates!
+2022-08-31 Wednesday 21:14:17:WARNING: Recommendation list of 1028412 is empty. Consider it as miss.
+2022-08-31 Wednesday 21:19:02:WARNING: Bug 1028497 has 0 candidates!
+2022-08-31 Wednesday 21:19:02:WARNING: Recommendation list of 1028497 is empty. Consider it as miss.
+2022-08-31 Wednesday 21:19:02:WARNING: Bug 1028518 has 0 candidates!
+2022-08-31 Wednesday 21:19:02:WARNING: Recommendation list of 1028518 is empty. Consider it as miss.
+2022-08-31 Wednesday 21:33:13:WARNING: Bug 1028788 has 0 candidates!
+2022-08-31 Wednesday 21:33:13:WARNING: Recommendation list of 1028788 is empty. Consider it as miss.
+2022-08-31 Wednesday 21:41:27:WARNING: Bug 1028920 has 0 candidates!
+2022-08-31 Wednesday 21:41:27:WARNING: Recommendation list of 1028920 is empty. Consider it as miss.
+2022-08-31 Wednesday 21:50:54:WARNING: Bug 1029086 has 0 candidates!
+2022-08-31 Wednesday 21:50:54:WARNING: Recommendation list of 1029086 is empty. Consider it as miss.
+2022-08-31 Wednesday 22:08:46:INFO: RR calculation - 3000 duplicate reports were processed
+2022-08-31 Wednesday 22:11:45:WARNING: Bug 1029456 has 0 candidates!
+2022-08-31 Wednesday 22:11:45:WARNING: Recommendation list of 1029456 is empty. Consider it as miss.
+2022-08-31 Wednesday 22:12:21:WARNING: Bug 1029465 has 0 candidates!
+2022-08-31 Wednesday 22:12:21:WARNING: Recommendation list of 1029465 is empty. Consider it as miss.
+2022-08-31 Wednesday 22:15:55:WARNING: Bug 1029560 has 0 candidates!
+2022-08-31 Wednesday 22:15:55:WARNING: Recommendation list of 1029560 is empty. Consider it as miss.
+2022-08-31 Wednesday 22:16:31:WARNING: Bug 1029570 has 0 candidates!
+2022-08-31 Wednesday 22:16:32:WARNING: Recommendation list of 1029570 is empty. Consider it as miss.
+2022-08-31 Wednesday 22:16:32:WARNING: Bug 1029573 has 0 candidates!
+2022-08-31 Wednesday 22:16:32:WARNING: Recommendation list of 1029573 is empty. Consider it as miss.
+2022-08-31 Wednesday 22:33:22:WARNING: Bug 1029939 has 0 candidates!
+2022-08-31 Wednesday 22:33:22:WARNING: Recommendation list of 1029939 is empty. Consider it as miss.
+2022-08-31 Wednesday 22:36:21:WARNING: Bug 1029985 has 0 candidates!
+2022-08-31 Wednesday 22:36:21:WARNING: Recommendation list of 1029985 is empty. Consider it as miss.
+2022-08-31 Wednesday 22:48:16:WARNING: Bug 1030292 has 0 candidates!
+2022-08-31 Wednesday 22:48:16:WARNING: Recommendation list of 1030292 is empty. Consider it as miss.
+2022-08-31 Wednesday 23:04:27:WARNING: Bug 1030701 has 0 candidates!
+2022-08-31 Wednesday 23:04:27:WARNING: Recommendation list of 1030701 is empty. Consider it as miss.
+2022-08-31 Wednesday 23:24:39:WARNING: Bug 1031282 has 0 candidates!
+2022-08-31 Wednesday 23:24:39:WARNING: Recommendation list of 1031282 is empty. Consider it as miss.
+2022-08-31 Wednesday 23:37:45:WARNING: Bug 1031666 has 0 candidates!
+2022-08-31 Wednesday 23:37:45:WARNING: Recommendation list of 1031666 is empty. Consider it as miss.
+2022-08-31 Wednesday 23:38:21:WARNING: Bug 1031685 has 0 candidates!
+2022-08-31 Wednesday 23:38:21:WARNING: Recommendation list of 1031685 is empty. Consider it as miss.
+2022-08-31 Wednesday 23:45:29:WARNING: Bug 1031919 has 0 candidates!
+2022-08-31 Wednesday 23:45:29:WARNING: Recommendation list of 1031919 is empty. Consider it as miss.
+2022-09-01 Thursday 00:09:56:WARNING: Bug 1032424 has 0 candidates!
+2022-09-01 Thursday 00:09:56:WARNING: Recommendation list of 1032424 is empty. Consider it as miss.
+2022-09-01 Thursday 00:11:44:WARNING: Bug 1032462 has 0 candidates!
+2022-09-01 Thursday 00:11:44:WARNING: Recommendation list of 1032462 is empty. Consider it as miss.
+2022-09-01 Thursday 01:10:31:WARNING: Bug 1033859 has 0 candidates!
+2022-09-01 Thursday 01:10:31:WARNING: Recommendation list of 1033859 is empty. Consider it as miss.
+2022-09-01 Thursday 01:29:09:WARNING: Bug 1034475 has 0 candidates!
+2022-09-01 Thursday 01:29:09:WARNING: Recommendation list of 1034475 is empty. Consider it as miss.
+2022-09-01 Thursday 01:31:33:WARNING: Bug 1034523 has 0 candidates!
+2022-09-01 Thursday 01:31:33:WARNING: Recommendation list of 1034523 is empty. Consider it as miss.
+2022-09-01 Thursday 01:40:40:WARNING: Bug 1034720 has 0 candidates!
+2022-09-01 Thursday 01:40:40:WARNING: Recommendation list of 1034720 is empty. Consider it as miss.
+2022-09-01 Thursday 01:46:41:WARNING: Bug 1034968 has 0 candidates!
+2022-09-01 Thursday 01:46:41:WARNING: Recommendation list of 1034968 is empty. Consider it as miss.
+2022-09-01 Thursday 01:47:18:WARNING: Bug 1035049 has 0 candidates!
+2022-09-01 Thursday 01:47:18:WARNING: Recommendation list of 1035049 is empty. Consider it as miss.
+2022-09-01 Thursday 02:12:01:WARNING: Bug 1035464 has 0 candidates!
+2022-09-01 Thursday 02:12:01:WARNING: Recommendation list of 1035464 is empty. Consider it as miss.
+2022-09-01 Thursday 02:14:25:WARNING: Bug 1035585 has 0 candidates!
+2022-09-01 Thursday 02:14:25:WARNING: Recommendation list of 1035585 is empty. Consider it as miss.
+2022-09-01 Thursday 02:14:26:WARNING: Bug 1035600 has 0 candidates!
+2022-09-01 Thursday 02:14:26:WARNING: Recommendation list of 1035600 is empty. Consider it as miss.
+2022-09-01 Thursday 02:15:38:WARNING: Bug 1035641 has 0 candidates!
+2022-09-01 Thursday 02:15:38:WARNING: Recommendation list of 1035641 is empty. Consider it as miss.
+2022-09-01 Thursday 02:22:14:WARNING: Bug 1035778 has 0 candidates!
+2022-09-01 Thursday 02:22:14:WARNING: Recommendation list of 1035778 is empty. Consider it as miss.
+2022-09-01 Thursday 02:30:09:INFO: Throughput: 0.12309116026537734 bugs per second (bugs=13848 ,seconds=112501.98609018326)
+2022-09-01 Thursday 02:30:09:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 1, 'rate': 0.06239168110918544, 'hit': 216, 'total': 3462}
+2022-09-01 Thursday 02:30:09:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 2, 'rate': 0.08896591565569036, 'hit': 308, 'total': 3462}
+2022-09-01 Thursday 02:30:09:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 3, 'rate': 0.10687463893703061, 'hit': 370, 'total': 3462}
+2022-09-01 Thursday 02:30:09:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 4, 'rate': 0.12478336221837089, 'hit': 432, 'total': 3462}
+2022-09-01 Thursday 02:30:09:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 5, 'rate': 0.14009243212016176, 'hit': 485, 'total': 3462}
+2022-09-01 Thursday 02:30:09:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 6, 'rate': 0.1487579433853264, 'hit': 515, 'total': 3462}
+2022-09-01 Thursday 02:30:09:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 7, 'rate': 0.15944540727902945, 'hit': 552, 'total': 3462}
+2022-09-01 Thursday 02:30:09:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 8, 'rate': 0.1655112651646447, 'hit': 573, 'total': 3462}
+2022-09-01 Thursday 02:30:09:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 9, 'rate': 0.17359907567879837, 'hit': 601, 'total': 3462}
+2022-09-01 Thursday 02:30:09:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 10, 'rate': 0.18226458694396303, 'hit': 631, 'total': 3462}
+2022-09-01 Thursday 02:30:09:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 11, 'rate': 0.19179664933564414, 'hit': 664, 'total': 3462}
+2022-09-01 Thursday 02:30:09:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 12, 'rate': 0.20075101097631426, 'hit': 695, 'total': 3462}
+2022-09-01 Thursday 02:30:09:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 13, 'rate': 0.2099942229924899, 'hit': 727, 'total': 3462}
+2022-09-01 Thursday 02:30:09:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 14, 'rate': 0.21750433275563258, 'hit': 753, 'total': 3462}
+2022-09-01 Thursday 02:30:09:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 15, 'rate': 0.22328134026574234, 'hit': 773, 'total': 3462}
+2022-09-01 Thursday 02:30:09:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 16, 'rate': 0.22761409589832468, 'hit': 788, 'total': 3462}
+2022-09-01 Thursday 02:30:09:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 17, 'rate': 0.23339110340843444, 'hit': 808, 'total': 3462}
+2022-09-01 Thursday 02:30:09:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 18, 'rate': 0.2391681109185442, 'hit': 828, 'total': 3462}
+2022-09-01 Thursday 02:30:09:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 19, 'rate': 0.24465626805314847, 'hit': 847, 'total': 3462}
+2022-09-01 Thursday 02:30:09:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 20, 'rate': 0.24898902368573078, 'hit': 862, 'total': 3462}
+2022-09-01 Thursday 02:30:09:INFO: {'type': 'metric', 'label': 'MAP', 'value': 0.10529935278046133, 'sum': 364.54635932595716, 'total': 3462}
+2022-09-01 Thursday 02:30:09:INFO: [1963, 15, 10, 677, 193, 808, 29, 6860, 37, inf, 15270, 16, 50, 2411, 82, 6431, 196, 195, 180, 990, 1139, 14, 4, 7668, 193, 124, 396, 84, 67, inf, 799, 15, 42929, inf, 65, 1711, 8, 12, 26280, 1065, inf, 7121, 71, 30, 1161, 261, 5, 8, 1, 60, 5, 25, inf, 1, 1, 4473, 344, 496, 81, 23, inf, 13960, 2, 2484, 24, 45, 273, 23, 4771, 326, 25, 68, 48, 128, 15, 643, 1794, 254, 371, 218, 595, 850, 21, 1, inf, 7, 156, 547, 1792, 235, 3589, 861, 108, 39, 128, 4172, 4, 5579, 166, 74, 109, 28, 8, 263, 3, 342, 3468, inf, 3237, 1, inf, 4, 431, 10, 714, 792, 113, 165, 25, 28, 12, 3463, 6674, inf, 2087, 53, inf, 179, 138, 247, 11, 2783, 498, 93, 6340, 869, 74, 44, inf, 54, 43, 62, 4, 27, 10, 5, 1507, inf, 83, 667, 600, 144, 67, 67, 67, 67, 67, 11943, 2569, 22, 3247, inf, inf, 127, 67, 4721, 31, 1, 154, 29, 514, inf, 552, 438, 15501, 129, 6316, 155, 507, inf, 130, 4, 233, 19, 4, 177, 5, 20, 25147, 2, 1046, 155, 13, 1, 407, 179, 15, 66, 212, 13, 200, 2319, 12, 2, 19295, 46, inf, 538, 4, inf, 183, 816, 9, 52, 13187, 1108, 139, 5, 30, 2, 50959, 1084, 26, 418, 9, 7875, 64, 1379, 1575, 8, 14, 170, 779, 220, inf, 823, 35369, 73, 1194, 16658, 6, 3, 3, 277, 596, 466, 9624, 1263, 22, 14, 1288, 1112, 414, inf, 1205, 1085, 326, 530, 59, 6953, 2364, inf, 27, 171, 7, 2, 14, 440, inf, 791, 12, 365, 295, 2, 74, 2, 10, 271, 620, 194, 622, 24, 87, 26, 221, 318, 42, 105, 2814, 4, 1, 1, 19, 65, 5, 1, 47274, 5, 709, 2, 569, 10157, 4, 250, 149, 58, 319, 1782, 103, inf, 120, inf, 1, 70, 24, 410, 118, inf, 46, 456, 2468, 68, 132, 278, 35, 14664, 4269, 1334, 47, 372, 2, 5, 3, 1, inf, 125, 29, inf, 144, 1859, 22, 387, 36, 254, inf, 3648, 194, 1271, inf, 355, 666, 173, 4, inf, 1803, 380, 149, 249, 97, 4, 2434, 3, 348, 53, 1, 2, 74, 2542, 3830, 87, 18, 87, 264, 43, 13, 1022, 119, 1075, 20467, 145, 6416, 13, 10, 25, 7, 146, 41, 210, 5099, 910, 75, 24817, 64, 98, inf, 1457, 14, 2164, inf, 113, 3, 68, 13, 305, 57, 3066, 87, inf, 912, 61, 12945, 5552, 1118, 81, inf, 1, inf, 2668, 41, 1, 17186, 36, 110, 303, 7, 95, inf, 5047, 38, 786, 7498, 5390, 72, 579, 1677, 3, 1, 767, 334, 6, 8, 5, inf, 5, 2, 2, 1, 303, 5, 7863, 910, 5, 5, 154, 134, 56, 20, 49, 1978, 643, 1, 17, 594, 70, 10279, 707, 15, 12, 41, 213, 969, 24, 659, 2676, 26, 3, 25, 425, 17, 56, inf, 1938, 1, 791, 165, 5, 324, 12, 2, 3, 10, 53, 1177, 502, 63, 196, 19, 6, 212, 1, inf, inf, 334, 586, 12, inf, 38, 78, 5, inf, 65, 936, 2, 2770, 139, 146, inf, 1431, 131, 51, 62, 652, 120, 5, 112, 998, 1, 600, 4, 173, 5, inf, 3451, 10, 202, 11, 16522, 10, 29, 644, 61, 23, 29, 21, 252, 78, 1067, 4, 27389, 1324, 2689, 2040, 7, 711, 9, 231, inf, 12, 135, 176, 5840, 260, 383, 302, 449, inf, 19, 104, 37, 137, 1071, 4, 228, 129, 272, 216, 556, 65, 1, 6, 5, 1, inf, 769, 1, 59830, 35654, 95, 596, 4407, inf, 1616, 74, 4470, 216, 87, 12, 210, inf, 2458, 219, 10644, 110, 1, inf, 45, 80, 203, 8, 73, 450, 419, 14287, 4356, 5, 68550, 28, 3, 6008, 2162, 3161, inf, 355, 1441, 641, 47, 128, 98, 599, inf, 150, 123, 17, 33, 1, 63, 7, 224, 481, 177, 379, 26451, 3, 3811, 34, 7859, 71, 11, 62, 1956, 82, 9, 4, 3631, 287, 5, 4874, 126, 1, 2141, 31, 484, 671, 302, 3, 173, 136, 17, 48, 1, 176, inf, 15, 459, 249, 55, 290, 107, 1051, 95, 120, 28, 194, 4, 729, 165, 1, 1, 452, 1176, 499, 10, 22, 149, inf, 5, 14, 47, inf, 288, 294, 312, 607, 4002, 494, 32, 2189, 4, 59, 301, 18, 17, 3223, inf, 4563, 38, 187, 127, 1, 827, 144, 29, 1, 950, 524, 144, 297, 104, 6, 34, 134, 514, 42, 49, 761, 5739, 645, 5616, 416, 41, 68, 18, 63, 5, 62, 42, 50, 1650, 107, 130, 10449, 259, 120, 81, 106, 48, 1, 55, 3, 2316, 2, 1, inf, 282, 172, 217, 3326, inf, 7, inf, inf, 94, 65, 779, inf, 118, 44, 1463, 625, 57, 12, 57, inf, 13, 12, 7, 359, 28, 33, 829, 20447, 423, 895, 11, 68, 114, 34, 137, 2994, 185, 1, 341, 100, 8290, 64, 14549, 241, 132, 2, 2, 341, 12, inf, 98, 18, inf, 14, 148, 322, 41, 32, 386, 2, 7688, 1, 1, 83, 97, 625, 36, 3455, 251, 141, 9, 36, 5, 20, 1019, 3653, 30, 2863, inf, 1095, 11, 4542, 2, 9, inf, 10, 1, 18797, 1, 283, 2, 138, 2931, 17, 207, 144, 7, 17, 16, inf, 5899, 48, 7, 138, 317, 426, inf, 45, 36, 25865, 3, 8442, 76, 598, 130, 626, 4, 105, 212, 858, 117, 94, 2, 289, 1458, 3530, 1, 4399, 1, 2, 1, 10, 2, 1, 4, 14, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, inf, 43, 7, 15185, 903, 502, 310, 348, 19, 11141, inf, 383, 5509, inf, 479, 445, 634, 78, 37, 57, 3031, 15910, 13, 32, 1, 433, 14, 95, 93, 34, 2776, 4334, 278, 1612, 10997, 39, 1025, 748, 1917, 175, 620, 119, 135, 579, 5246, 1, 1, 10, 2275, 4805, 684, 1693, 10043, 2, 326, 10, 12, 7, 2, 286, 54, 78, 436, 13, 5343, 419, 19, 233, 1, 1, 1, 1, 45, 567, 122, 119, 54, 881, 5107, 88, 4382, 3681, 160, 6, 1227, 1796, 361, 288, 45, inf, 14, 251, 51, 53, 148, 49770, 75, 1181, 343, 103, 1638, 1103, 29, 2992, 291, 1108, 47, 3, 3, 10, 1100, inf, 17, 28, 10021, 7, 753, 73, 7, 1, inf, 742, 600, 2, 78, 32, 42, 41, 91, 4, 1, 1, 11812, 9, 11, 128, 390, 1364, 2, 8, 1, 8, 15, 69, 289, 233, 878, 1, 173, 245, 24, 229, 203, 526, 13, 101, 166, 174, 1768, 934, 19, 435, 16, 3, 716, 404, 23, inf, 441, 26, 82, inf, 4, 13, 5, 229, 18, 408, 47, 36, 6, 15, inf, 56, 701, 101, inf, 3, inf, 4, 87, 2, 428, 1, 4, 51, 99, 1085, 2698, 108, 10, 1, 1, 2794, 6117, 1, inf, 18, 587, 136, 244, 65, 404, 30, 2, 1, 1, 882, 1, 55, 73, 9, inf, 2, inf, 1295, 12, 28, 18446, 1, 57, 113, inf, 3, 16, 1294, 276, 142, 90, 968, 2, 5084, 1, 7477, 90, 169, 26, 346, 77, inf, 124, inf, 191, 2, 48, 18, 611, 4, 1, 521, 2631, 55, 1, 2595, inf, 200, 66, 33, 169, 4, 45, 38, 40, 48, 32, 1, 18824, 831, 201, 14, 38, 171, 1, 24, 16, 1587, 2, 103, 56, 50, 99, 7692, 22, 26, 69, 54, 84, 90, 1204, 4354, 1, 2, 1, 16, 72, 861, 1564, 5483, 2543, 20, 1, 1, 19, 12, 29, 48, 108, 936, 791, 164, 15209, 21, 34, 11, 7, 11, inf, inf, 813, 27, 180, 32, 56, 59, 54, 652, 271, 33, 3, 51, 91, 416, 10, inf, 24, 3, inf, 20, 213, 1738, 62, 4561, 3083, 316, 7108, 13737, 304, 43, 114, 202, 194, 12680, 2327, 113, 94, 162, 58, 262, 1470, inf, 242, 14, 80, 1, 146, 76, 164, 1411, 1, 8, 2, 12, 12, 46, 98, 90, 61, 1851, 51, 1, 7138, 34, 1, 413, 63, 16605, 287, inf, inf, 2, 1233, 1, 2, 16, 97, 2, inf, 128, 1341, 9193, 1, 164, 87273, 488, 1, 125, 68, 29, 271, 24, 1105, 40, 118, 3952, inf, inf, 10, 374, 4, 19, 523, 43489, 2769, 240, 41, 263, 8110, 1989, 136, 191, 1, 2, 163, 561, 782, 6968, 35, 3645, 2859, 18, 999, 1602, 2, 267, 226, 1, 6045, 645, inf, 2, 61, 24, 11, 30, 3, 125, 161, 76, 337, 167, 2, 26, inf, 13846, 158, inf, 31, 32, 3526, 150, 49, 101, 190, 11, 76, 76, 436, 10081, 1526, 847, 361, 164, 1336, inf, 9, 50, 80, 82, 96, 3, 554, 44, inf, 187, 2156, 14, 91, 532, 1, 2701, inf, 110, 25, 48978, 23, 162, 66, 1606, 2205, 1917, 25, 108, 84, 288, 5, 307, 4269, 35, 400, 870, 274, 72, inf, 71, 174, 447, 9, 465, 3, 917, 122, 2733, 430, 22, 65, 133, 147, 164, 27, 1, 120, 1, 1, 4, inf, 5, 363, 3, 26, 6, 126, 1262, 215, inf, 3, 16, 319, inf, 148, inf, 99, 20, 193, 6, 913, 191, 62, 2355, 93, 320, 168, 380, 51, 225, 606, inf, 194, 434, 26947, 2341, 180, 30, 14, 332, 145, 360, 694, 172, 16, 24477, 9, 1, 29151, 2, 627, 38, 47, 78, 361, 12, 126, 57, inf, 216, 172, 263, 343, 23, 135, 206, 3595, 289, 11, 1805, 6287, 109, 115, 7, inf, 18, 319, 207, 168, 28, 5, 362, 118, 1, 107, 13, 202, 27, 25, inf, inf, 53, 201, 43, 18, 4292, 110, 2, 21, 326, 44, 507, 8742, 157, 245, 833, 1209, 49, 1, 2196, 521, 262, 1093, 2, 91, 4, 4583, 461, inf, 456, 15, 7, 1581, inf, 236, 25, 176, 47, 1, 101, 2, 11, inf, 1, 2, 25, 1, 1, 1085, 81, 2465, 48, 76, 25, 916, 34, 11, 35, inf, inf, inf, inf, 1, 8, 6210, 62, 1494, 102, 1625, 2242, 88, 134, inf, 4, inf, 1223, 290, 102, 3, 33, 1, 98, 3, 2, inf, 367, 39, 3293, 3123, inf, 646, 5, 54188, 156, inf, 29, 6040, inf, 157, 27, 2, 893, 51, 197, 1607, 341, 1, inf, 128, 284, 13, 14, 11, 102, 1, 2, 75, 2503, 755, 22, 1149, 25, 4310, 210, 3, 559, 52, 26056, 1742, 100, 17, 389, 325, 5383, 3, 71, 537, 12, 6, 46, 85, 3, 60, 18639, 4, 3, 543, 282, 28, inf, 85, 42, 85, 29, 101, 422, 4165, 1, 965, 1989, 1264, 115, 41, 345, 52, 2, 253, 50, 1467, 714, 1414, 8424, 19, 617, inf, 112, inf, inf, inf, 356, inf, 39, 3, 218, 183, 62, 1959, inf, 4, 3007, 12, 674, 506, 2000, 19, 169, 40, 160, 94, 19, 14725, 188, 3, 413, 1, 427, 1123, 393, 10, 455, 11429, 1818, 2685, 1434, 61, 70, inf, 2877, 165, 194, 218, 1062, 33, 1, 170, 1072, 684, 90, 77, 51, 489, 51, 711, 13338, 122, 1, 2, 343, 2013, 5830, 2331, inf, 169, 23, 3, 21, 235, inf, 3, 4482, inf, inf, 8, 4876, 140, 1868, 1826, 2435, 42, 1102, 263, 110, 9, 1427, 122, 316, 78, 176, 4, inf, 361, 483, 101, 1099, 3645, 310, 7, 18, 703, 27, 190, 203, 1167, 762, 11, 173, 464, 1271, 238, 79038, 3302, 149, 379, 443, 91, 98, 28, 58, 256, 20, 7, 314, 1002, 380, 321, 3, 218, 586, 40822, 90, inf, 169, 3, 209, 9, 1, 1, 532, 869, inf, 438, 80, 2, 358, 305, 13, 12, 11050, 4094, 10, 20, 787, 40, 118, 5, 237, inf, 849, 6, 1032, 1990, 454, 9, 32, 8484, 122, 2, 162, 1151, 1672, 214, 48, 7, 2, 169, 24, 206, 2, 23, 10, 297, 423, 14, 583, 689, 633, 2, 61, 15, 6, 15, 1090, 91, 1, 303, 1, 244, 247, 3, 200, 7, 7, 895, 1864, 71, 80, 25, 55, 57, 394, 95, 119, 382, 257, 23, 34, 129, 54, 3, 1, 16, inf, 48, 15, 2, 1004, 18, 38, 39, 782, inf, 159, 1752, 70, 2306, 40, 211, 1, 119, 3547, 41, 2744, inf, 18, 1468, 14, 1, 86, 122, 703, 60, 107, 524, 62, 47, 145, 5, 184, 306, 4682, 43, 1, inf, 20, 145, 1296, 767, 1147, 345, 2828, 67, inf, 4407, 420, 209, 939, 1027, 3, 114, 1, 1, 45, 154, 12, 103, 47, 4, 123, 90, inf, 17, 282, 19, 164, 2, 33, 1, 385, 26, 12, 3350, 110, 52, 14, 30, 3902, 1157, 92, inf, 1227, 10, 961, 28601, inf, 251, 40, 2, 10388, 36, 97, inf, 1364, 331, 4895, 70, 86, 1, 151, 4750, 20, 38, 573, inf, 336, 85, 927, 1, 1, 1, 259, 5, 7, 7, 2, 7, 2, 1, 16, 1, 2, 1, 2, 7, 5, 348, 1, 154, 6, 1, 1, 1, 1, 1, 1, 34, 2, 1, 4, 1, 1, 1, 2, 138, 1, 3, 346, 148, 413, 82, 149, 404, 160, 45, 11516, 10, 14, 33, 1, 24, 51, 111, 2048, 977, 746, 181, 31, 575, 565, 1029, 74, 81, 215, 193, 11636, 12, 1342, 128, 360, 28647, 732, 1, inf, 180, 250, 426, inf, 165, 807, 1013, 410, 109, 1, 5, 27, 2610, 8523, 38, 1138, 6, 34492, 795, 694, 110, 768, 91, 57, 13, 4, 1, 821, 1, 1609, 47, 42, 9, 78, 25, 1696, 1682, 54, 1, 104, 88, 7223, inf, 61, 61, 550, inf, 2, 2, 15, 1383, 105, 2, 1, 3, 22803, 240, 132, 2400, 391, 2799, 4, 1, 3, 219, 2737, 1046, 61, 51, 59, 134, 5, inf, 698, inf, 96, 17, 518, 714, 3499, 27, inf, 298, 59, 56, 111, 1067, inf, 28, 1171, 45, 48, 211, 25, 4, 102, 202, 320, 511, 1, 2, 12035, 39, 99844, 55, 341, 162, 745, 1096, 9, 6206, 229, 462, 412, 746, 188, 533, 7, 55, 1, 4, 18, 95, 4, 3, 6, 66, 141, 39, 8107, 72, 23, 3, 700, 257, 1, 232, inf, 22, 1, 448, 5, 119, 233, 57, 5543, 21, 550, 1285, 30, 34, 809, 47, 22821, 2447, inf, 21, 27, 340, 1, 764, 1818, 1074, 577, 108, 865, 260, 6376, 228, 209, 128, inf, 13, 24613, 106, 45, 9, 1111, 417, 669, 5, 1073, 1, 17, 524, 1, 537, 16, 745, 3, 207, 215, 535, 11, 51, 1, 9590, 49, 20, 80, 17, 498, 12359, 1, 45, 2724, 161, 95, 1, 491, 169, 7, 4346, 806, 572, 8, 10, 91, 16469, 1039, 13, 213, 12, 15, 66, 71, 1, 2, 143, 259, 1, 1613, 10521, 19, 3148, 1063, 6, 2527, 921, 1675, 39, 172, 487, 385, 20, 408, 4448, 19, 33, 5, 7, 7, 146, 5512, 29, 5, 618, 926, 213, 1, 13, 143, 60, 5854, 85, 1, 266, 38653, inf, 3479, 46321, 29, 1842, 4985, 4, 72, 54, inf, inf, 1882, inf, 19, 18, 303, 397, 200, 10707, 2, inf, 153, 850, 50, 1430, 140, 386, 12469, 37, 11, 25, 3652, 18, inf, 124, 53, inf, 294, 2185, 11063, 944, 139, 162, 15, 8142, inf, 73, 195, 41, 583, 3005, 45, 4839, 520, 2, 1248, 236, 1401, 15, 14, 522, 1904, 89, 18, 20, 97, 265, 46, 209, 724, 31, 151, 39, 125, 705, 34, 176, 2, 132, 112, 939, 5, 81, inf, 463, 1, 489, 13, 707, 3, 51, inf, 164, inf, 3, 842, 77, 1021, 4596, 1, 205, 1, 36, 17, 19, 53, 61, 32, 7810, 701, inf, inf, inf, 34, 33, 633, 2676, 4322, 302, 107, inf, 80, 377, 35, inf, inf, 11, 47, 3368, 35, 61, 2847, 32, 4, 73, 139, 23, 12, 885, 96, 294, 5097, 9895, 1698, 655, 43, 34, 1, 1375, 444, 239, 5, 1782, 7, 1, 442, 1286, 157, 11, 466, 10, inf, 756, inf, 6, 8473, 8222, 1, 1181, 214, 78, 3227, 98, 1627, 422, 14, inf, 21, 3, 5468, 598, 8, 9, 71, 435, 36, 36409, 5815, 169, 2088, 3869, inf, 483, 281, 645, 6, 62, inf, 6952, 98, 8742, 262, 22, 168, 12, 94, 171, 88, 612, inf, 96, 325, 39, 932, 30, 16268, inf, 73, inf, 28, 139, 246, 161, 270, 664, 1, 505, 2029, 80, 10971, 1028, 42, 1056, 208, 6, 131, 214, 832, 180, 473, 144, 6, 170, 1247, 71, 116, 80, 529, 5569, 86, 1604, 4, 9187, 2629, inf, 1979, 153, inf, 13, 1, 1, 1, 1, 990, 41, 75, 99, inf, 222, 104, 1, 1, 9, 16, 17896, 345, 851, 85, 48, 15, 90, 17, 529, 7, inf, 31, 46, 78, 28, 11, 98, 17, 40, 13, 51, 93, 40, 1, 349, 3, 8666, 6568, 37, 9297, 485, 584, 2, 64, 721, inf, 38, 13282, 53, 40715, inf, 43, 2, 107, 42, 47, 2966, 4, 3825, 26, inf, 213, 49, 564, 635, 13, 876, 316, 2095, 195, 64, 10, 6713, inf, 294, 742, 1, 485, 88, 2, 34, 723, 635, 55, 1586, 13, 1, inf, 163, 878, 41, 605, 24, 376, 7808, 1347, 14, 4, 52, 6630, 740, 6, 91, 8668, 2489, 99, 11, 840, 1, 4, 119, 192, 377, 69, 5059, inf, inf, inf, 485, 114, 38, 28, 351, 63, 469, 22, 25, 144, 823, 6, 192, 2, 910, 524, 79, 118, 429, 8, 5130, 251, 1660, 318, 33, inf, 3, 5, 2, 93, 31, 45, 148, 39, 1155, 5721, 224, 5475, 1382, 642, 13410, 7, 3, 1, 79, 2731, 198, 32, 27, 7488, 499, 436, inf, 58, 44, 1, inf, inf, 1779, 104, 133, 155, 3325, 1057, 6222, 101, 40209, 219, 3563, 1150, 171, 316, 13, 2072, 95, 17, 40, 77, 312, 2541, 553, 51, 1566, 5834, 63, 1, 11, 249, 605, inf, 1045, 4196, inf, 92, 365, 2519, 349, 36, 964, 1, 278, 3018, 393, 14, 468, 110, inf, 130, 309, 719, 5, 158, 24569, 513, 43, inf, inf, 2, 102, 114, 37, 2607, 4, 344, 16, 186, 3419, 394, 296, 280, 12, 115, 1, 928, 11, 72, 317, 541, 11, 15879, 80309, inf, 2381, 193, 4, 48, 1, 2, 2, 582, 53, 164, 5135, 827, 37, 3156, inf, 252, 13, 1456, 58, 2062, 2497, 1, 21, 36341, 1313, 5, 11, 9, 1, 75, 1117, inf, 3, 1147, 33, 275, 48, 6, 48, 2174, 403, 959, 185, 18, 2253, 1311, 12, 1, 1011, 8, 111, 9629, 72, 184, 4, 23, 202, 13, 3213, 6, 412, 18, 38356, 537, 163, 778, 63, inf, 37, inf, 1220, 19, 836, 14, 8, 4, inf, 42, inf, inf, 59, 254, 2, 1355, 1, 628, 15, 11, 13, 8, 791, 28, 383, 4814, 266, 20, 562, 334, 16968, 84, 534, 173, 818, 6202, 3, 65, 242, 175, inf, 3, 15229, 1, 117, 680, inf, 113, 3, 35, 252, 74, 2, 170, 76, 1839, 93, 1663, 11, 737, 5803, 4, 4, 1683, 17504, 6, 8, inf, 91, 23, 4, 4, 2, 111, 491, 127, 463, 4590, 11, 4, 77, 134, 69, 743, 103, 122, 117, 82, 1, 331, 153, 11, 5, 282, 3738, inf, 36, 2, 651, 62, 28, 524, 655, 94, 1, 17, 104, 942, 34, 179, 33, 2, 641, 50, 370, 5, 320, 257, 1509, 247, 68, 9, 2134, 98, 1, 67, 8506, 37, 464, 246, inf, 85, 186, 82, 75, 17, 42, 873, 11, 6, 9, 5881, 148, 84, 47, 12, 12, 10, 58, 33, 8, 53, 1545, inf, 13, inf, 13, 22, 7292, 605, 1, 321, 367, 1018, 666, 30328, 1, 649, inf, 1, 10, 74, 6, 491, 86, 1355, 51, 432, 9, 44, 117, 1008, 4, 5, 55, 1, 1, 2, 3, 22341, 10, 17, 334, 138, 25560, 259, 9, 126, 5, 4, 2014, 47, 25, 1, 40, 11131, 155, 3053, 68, 534, inf, 34, 14, 7, inf, 152, 9, 4, 1636, 3, 195, 723, 1575, 970, 4273, 36, 732, 50, 4, 1, 509, 1, 10973, 1320, 338, 11, 16, 3754, 1001, 25, 153, 25951, 11, 7, 298, 639, 879, 4, 15, 273, 315, 72, 9, 68, 34, 949, 22, 8, 34, 4, 1095, 183, 26, 104, 641, 2654, 286, 1, 737, 1, 1, 121, 5, 37, 61, 3537, 66, 250, 14, 19, 4647, 127, 29, 1, 1, 40, 1, 70, 1, 722, 202, 107, 51, 36, 53, 877, 24, 5, 2622, 125, 48, 2150, 20, 699, 85, 6, 4802, 7491, 387, 15, 24, 38, 4, inf, 89, 319, 385, 252, 324, 126, 5, 8297, 13384, 88, 303, 58, 140, 252, 25, 45, 1436, 595, 9204, 164, 362, 1409, 26, 5, 189, 348, 24, 89, 311, 55, 845, inf, 20274, 59, 7, 27, inf, 104, 147, 5, 1173, 87, 330, 4039, 11802, 85, 69, 1474, 5, 529, 59, 28, inf, 13, 13, 1693, 33, 13, 1, 7, 90, 3, 80, inf, 5907, inf, 1, 1, 6, 10096, 2502, 160, 51, 8302, 98, 3, 13, 10, 590, 1177, 345, 2, 1, 1, 4, 592, 10, 2, 9, 5519, 5680, 3381, 1276, 561, 133, 142, 470, 706, 33, 161, 569, 9, 808, 1769, 1, 8, 56, inf, 30, 1, 159, 404, inf, inf, 211, 960, inf, 691, 1199, 476, 1650, 6, 23, 1082, 636, 11, 158, 382, inf, 2, 789, 209, 426, 917, 18, 2, 4735, 777, 3, 329, 226, 125]
+2022-09-01 Thursday 02:30:09:INFO: It completed at: 2022-09-01 02:30:09.258114
+2022-09-01 Thursday 02:30:09:INFO: Completed after: 1 day, 7:15:43.970673

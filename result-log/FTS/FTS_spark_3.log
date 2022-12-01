@@ -1,0 +1,41 @@
+2022-09-04 Sunday 01:18:00:INFO: Number of bugs with empty description: 5
+2022-09-04 Sunday 01:18:01:WARNING: Recommendation list of 13278676 is empty. Consider it as miss.
+2022-09-04 Sunday 01:18:01:WARNING: Recommendation list of 13278987 is empty. Consider it as miss.
+2022-09-04 Sunday 01:18:01:WARNING: Recommendation list of 13281082 is empty. Consider it as miss.
+2022-09-04 Sunday 01:18:01:WARNING: Recommendation list of 13282253 is empty. Consider it as miss.
+2022-09-04 Sunday 01:18:02:WARNING: Recommendation list of 13297297 is empty. Consider it as miss.
+2022-09-04 Sunday 01:18:03:WARNING: Recommendation list of 13298609 is empty. Consider it as miss.
+2022-09-04 Sunday 01:18:03:WARNING: Recommendation list of 13299388 is empty. Consider it as miss.
+2022-09-04 Sunday 01:18:03:WARNING: Recommendation list of 13300202 is empty. Consider it as miss.
+2022-09-04 Sunday 01:18:03:WARNING: Recommendation list of 13300575 is empty. Consider it as miss.
+2022-09-04 Sunday 01:18:03:WARNING: Recommendation list of 13303349 is empty. Consider it as miss.
+2022-09-04 Sunday 01:18:03:WARNING: Recommendation list of 13304685 is empty. Consider it as miss.
+2022-09-04 Sunday 01:18:04:WARNING: Recommendation list of 13311700 is empty. Consider it as miss.
+2022-09-04 Sunday 01:18:04:WARNING: Recommendation list of 13312814 is empty. Consider it as miss.
+2022-09-04 Sunday 01:18:05:WARNING: Recommendation list of 13320267 is empty. Consider it as miss.
+2022-09-04 Sunday 01:18:05:WARNING: Recommendation list of 13324339 is empty. Consider it as miss.
+2022-09-04 Sunday 01:18:06:WARNING: Recommendation list of 13334539 is empty. Consider it as miss.
+2022-09-04 Sunday 01:18:07:WARNING: Recommendation list of 13346679 is empty. Consider it as miss.
+2022-09-04 Sunday 01:18:07:INFO: [Recall Rate] Throughput: 11.14720047101001 bugs per second (bugs=81 ,seconds=7.2663984298706055)
+2022-09-04 Sunday 01:18:07:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 1, 'rate': 0.2345679012345679, 'hit': 19, 'total': 81}
+2022-09-04 Sunday 01:18:07:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 2, 'rate': 0.2962962962962963, 'hit': 24, 'total': 81}
+2022-09-04 Sunday 01:18:07:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 3, 'rate': 0.3333333333333333, 'hit': 27, 'total': 81}
+2022-09-04 Sunday 01:18:07:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 4, 'rate': 0.35802469135802467, 'hit': 29, 'total': 81}
+2022-09-04 Sunday 01:18:07:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 5, 'rate': 0.38271604938271603, 'hit': 31, 'total': 81}
+2022-09-04 Sunday 01:18:07:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 6, 'rate': 0.3950617283950617, 'hit': 32, 'total': 81}
+2022-09-04 Sunday 01:18:07:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 7, 'rate': 0.3950617283950617, 'hit': 32, 'total': 81}
+2022-09-04 Sunday 01:18:07:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 8, 'rate': 0.41975308641975306, 'hit': 34, 'total': 81}
+2022-09-04 Sunday 01:18:07:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 9, 'rate': 0.41975308641975306, 'hit': 34, 'total': 81}
+2022-09-04 Sunday 01:18:07:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 10, 'rate': 0.41975308641975306, 'hit': 34, 'total': 81}
+2022-09-04 Sunday 01:18:07:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 11, 'rate': 0.41975308641975306, 'hit': 34, 'total': 81}
+2022-09-04 Sunday 01:18:07:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 12, 'rate': 0.41975308641975306, 'hit': 34, 'total': 81}
+2022-09-04 Sunday 01:18:07:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 13, 'rate': 0.41975308641975306, 'hit': 34, 'total': 81}
+2022-09-04 Sunday 01:18:07:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 14, 'rate': 0.41975308641975306, 'hit': 34, 'total': 81}
+2022-09-04 Sunday 01:18:07:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 15, 'rate': 0.41975308641975306, 'hit': 34, 'total': 81}
+2022-09-04 Sunday 01:18:07:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 16, 'rate': 0.41975308641975306, 'hit': 34, 'total': 81}
+2022-09-04 Sunday 01:18:07:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 17, 'rate': 0.41975308641975306, 'hit': 34, 'total': 81}
+2022-09-04 Sunday 01:18:07:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 18, 'rate': 0.41975308641975306, 'hit': 34, 'total': 81}
+2022-09-04 Sunday 01:18:07:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 19, 'rate': 0.41975308641975306, 'hit': 34, 'total': 81}
+2022-09-04 Sunday 01:18:07:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 20, 'rate': 0.43209876543209874, 'hit': 35, 'total': 81}
+2022-09-04 Sunday 01:18:07:INFO: {'type': 'metric', 'label': 'MAP', 'value': 0.2980274707357617, 'sum': 24.140225129596697, 'total': 81}
+2022-09-04 Sunday 01:18:07:INFO: [inf, 1, 1, 2, 1, inf, inf, inf, inf, 4, inf, inf, 1, inf, 754, 8, 8, inf, 152, 1, 22, inf, 1, 334, inf, 121, inf, 2, 105, inf, 1, inf, inf, 86, inf, 4, inf, inf, inf, 1, 27, 42, 1, inf, 6, 1, 1, 20, inf, 72, 580, 5, 1, 5, 91, 1, inf, inf, 437, 1, 1, inf, inf, 1, 37, 26, 3, 68, 56, 3, inf, inf, 2, 1, 1, 1, 2, 2, 3, inf, inf]

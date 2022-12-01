@@ -1,0 +1,110 @@
+2022-08-17 Wednesday 16:24:42:INFO: {'bug_database': 'dataset/eclipse-initial/eclipse-initial_soft_clean.json', 'database_name': 'eclipse-initial', 'epochs': 8, 'lr': 0.001, 'l2': 0.0, 'dropout': None, 'batch_size': 128, 'ranking_batch_size': 256, 'cuda': True, 'cache_folder': 'scratch/temp/', 'pairs_training': 'dataset/eclipse-initial/training_split_eclipse-initial_pairs_random_1.txt', 'pairs_validation': 'dataset/eclipse-initial/validation_eclipse-initial_pairs_random_1.txt', 'neg_pair_generator': {'type': 'non_negative', 'training': 'dataset/eclipse-initial/training_eclipse-initial.txt', 'rate': 1, 'pre_list_file': None, 'k': 0, 'n_tries': 15, 'preselected_length': None, 'random_anchor': True}, 'sum_desc': None, 'summary': {'word_embedding': 'word_embedding/eclipse-initial/glove_42B_300d_eclipse-initial.txt', 'lexicon': None, 'encoder_type': 'rnn', 'tokenizer': 'white_space', 'filters': ['TransformLowerCaseFilter'], 'rnn_type': 'lstm', 'hidden_size': 300, 'nfilters': 100, 'bidirectional': True, 'num_layers': 1, 'dropout': 0.15, 'update_embedding': False, 'fixed_opt': 'mean+max', 'activation': 'relu', 'batch_normalization': False, 'hidden_sizes': None, 'hidden_act': None, 'hidden_dropout': 0.0, 'bn_last_layer': False, 'self_att_hidden': 100, 'n_hops': 20, 'standardization': False}, 'description': {'word_embedding': 'word_embedding/eclipse-initial/glove_42B_300d_eclipse-initial.txt', 'lexicon': None, 'encoder_type': 'rnn', 'tokenizer': 'white_space', 'filters': ['TransformLowerCaseFilter'], 'rnn_type': 'lstm', 'hidden_size': 300, 'nfilters': 100, 'bidirectional': True, 'num_layers': 1, 'dropout': 0.15, 'update_embedding': False, 'fixed_opt': 'mean+max', 'activation': 'relu', 'batch_normalization': True, 'hidden_sizes': None, 'hidden_act': None, 'hidden_dropout': 0.0, 'bn_last_layer': False, 'window_sizes': [3], 'self_att_hidden': 100, 'n_hops': 20, 'standardization': False}, 'categorical': {'lexicons': 'dataset/eclipse-initial/categorical_lexicons.json', 'bn_last_layer': True, 'emb_size': 20, 'hidden_sizes': [40], 'dropout': 0.0, 'activation': 'relu', 'batch_normalization': True}, 'classifier': {'type': 'binary', 'without_embedding': False, 'batch_normalization': True, 'dropout': 0, 'hidden_sizes': [300, 50], 'margin': 0, 'loss': None}, 'recall_estimation_train': None, 'recall_estimation': None, 'rr_val_epoch': 100, 'rr_train_epoch': 100, 'random_switch': False, 'ranking_result_file': None, 'optimizer': 'adam', 'momentum': 0.9, 'lr_scheduler': None, 'save': None, 'load': None, 'pair_test_dataset': None, 'recall_rate': {'type': 'sun2011', 'dataset': 'dataset/eclipse-initial/test_eclipse-initial.txt', 'result_file': None, 'group_by_master': True, 'window': 365}, 'seed': 575781576}
+2022-08-17 Wednesday 16:24:42:INFO: It started at: 2022-08-17 16:24:42.629072
+2022-08-17 Wednesday 16:24:43:INFO: Turning CUDA on
+2022-08-17 Wednesday 16:24:43:INFO: Using Summary information.
+2022-08-17 Wednesday 16:30:34:INFO: Lexicon size: 1924386
+2022-08-17 Wednesday 16:30:34:INFO: Word Embedding size: 300
+2022-08-17 Wednesday 16:30:34:INFO: Use white space tokenizer to tokenize summary information
+2022-08-17 Wednesday 16:30:41:INFO: Using Description information.
+2022-08-17 Wednesday 16:36:17:INFO: Lexicon size: 1924386
+2022-08-17 Wednesday 16:36:17:INFO: Word Embedding size: 300
+2022-08-17 Wednesday 16:36:17:INFO: Use white space tokenizer to tokenize summary information
+2022-08-17 Wednesday 16:36:23:INFO: Using Categorical Information.
+2022-08-17 Wednesday 16:36:23:INFO: Using NLLLoss
+2022-08-17 Wednesday 16:36:28:INFO: Non Negative Pair Generator
+2022-08-17 Wednesday 16:36:28:INFO: Using the following dataset to generate negative examples: Database: eclipse; Order by Date; Master report is the newest oneWe keep nested master reports; Database: eclipse; Order by Date; Master report is the newest oneWe keep nested master reports;. Number of bugs in the training: 19607
+2022-08-17 Wednesday 16:36:28:INFO: Training size: 3342
+2022-08-17 Wednesday 16:36:28:INFO: Validation size: 108
+2022-08-17 Wednesday 16:36:28:INFO: Adam
+2022-08-17 Wednesday 16:36:28:INFO: Scheduler: Constant
+2022-08-17 Wednesday 16:36:28:INFO: Epoch: 1
+2022-08-17 Wednesday 16:36:28:INFO: LR: 0.001
+2022-08-17 Wednesday 16:36:33:INFO: {'type': 'metric', 'label': 'training_confusion_matrix', 'accuracy': 0.824655894673848, 'precision': [0.8289872650090965, 0.8204370939161252], 'recall': [0.8180730101735487, 0.8312387791741472], 'f1': [0.8234939759036138, 0.825802615933412], 'confusion_matrix': [[1367, 304], [282, 1389]], 'epoch': None}
+2022-08-17 Wednesday 16:36:33:INFO: {'type': 'metric', 'label': 'training_loss', 'epoch': 1, 'value': 0.39781242917569937, 'sum': 1329.4891383051872, 'num_example': 3342}
+2022-08-17 Wednesday 16:36:33:INFO: {'type': 'metric', 'label': 'training_dist_target', 'value': (0.28507894088521396, 0.27148896716156096), 'epoch': 1}
+2022-08-17 Wednesday 16:36:33:INFO: {'type': 'metric', 'label': 'validation_confusion_matrix', 'accuracy': 0.8518518518518519, 'precision': [0.7714285714285715, 1.0], 'recall': [1.0, 0.7037037037037037], 'f1': [0.8709677419354834, 0.8260869565217386], 'confusion_matrix': [[54, 0], [16, 38]], 'epoch': None}
+2022-08-17 Wednesday 16:36:33:INFO: {'type': 'metric', 'label': 'validation_loss', 'epoch': 1, 'value': 0.3429816961288452, 'sum': 37.04202318191528, 'num_example': 108}
+2022-08-17 Wednesday 16:36:33:INFO: {'type': 'metric', 'label': 'validation_dist_target', 'value': (0.14621559778849283, 0.36486406679506656), 'epoch': 1}
+2022-08-17 Wednesday 16:36:34:INFO: Epoch: 2
+2022-08-17 Wednesday 16:36:34:INFO: LR: 0.001
+2022-08-17 Wednesday 16:36:39:INFO: {'type': 'metric', 'label': 'training_confusion_matrix', 'accuracy': 0.9371633752244165, 'precision': [0.9325044404973357, 0.941923774954628], 'recall': [0.9425493716337523, 0.9317773788150808], 'f1': [0.9374999999999996, 0.9368231046931402], 'confusion_matrix': [[1575, 96], [114, 1557]], 'epoch': None}
+2022-08-17 Wednesday 16:36:39:INFO: {'type': 'metric', 'label': 'training_loss', 'epoch': 2, 'value': 0.184184127425377, 'sum': 615.5433538556099, 'num_example': 3342}
+2022-08-17 Wednesday 16:36:39:INFO: {'type': 'metric', 'label': 'training_dist_target', 'value': (0.1282364059393453, 0.13917681865532336), 'epoch': 2}
+2022-08-17 Wednesday 16:36:39:INFO: {'type': 'metric', 'label': 'validation_confusion_matrix', 'accuracy': 0.8703703703703703, 'precision': [0.8225806451612904, 0.9347826086956522], 'recall': [0.9444444444444444, 0.7962962962962963], 'f1': [0.8793103448275856, 0.8599999999999993], 'confusion_matrix': [[51, 3], [11, 43]], 'epoch': None}
+2022-08-17 Wednesday 16:36:39:INFO: {'type': 'metric', 'label': 'validation_loss', 'epoch': 2, 'value': 0.3351229429244995, 'sum': 36.19327783584595, 'num_example': 108}
+2022-08-17 Wednesday 16:36:39:INFO: {'type': 'metric', 'label': 'validation_dist_target', 'value': (0.1280496738575123, 0.27129060250741466), 'epoch': 2}
+2022-08-17 Wednesday 16:36:40:INFO: Epoch: 3
+2022-08-17 Wednesday 16:36:40:INFO: LR: 0.001
+2022-08-17 Wednesday 16:36:45:INFO: {'type': 'metric', 'label': 'training_confusion_matrix', 'accuracy': 0.9611011370436864, 'precision': [0.9616536848412223, 0.9605499103407054], 'recall': [0.9605026929982047, 0.9616995810891682], 'f1': [0.9610778443113767, 0.961124401913875], 'confusion_matrix': [[1605, 66], [64, 1607]], 'epoch': None}
+2022-08-17 Wednesday 16:36:45:INFO: {'type': 'metric', 'label': 'training_loss', 'epoch': 3, 'value': 0.11722716399290689, 'sum': 391.7731820642948, 'num_example': 3342}
+2022-08-17 Wednesday 16:36:45:INFO: {'type': 'metric', 'label': 'training_dist_target', 'value': (0.07723327912947577, 0.08516695362447194), 'epoch': 3}
+2022-08-17 Wednesday 16:36:46:INFO: {'type': 'metric', 'label': 'validation_confusion_matrix', 'accuracy': 0.8611111111111112, 'precision': [0.8421052631578947, 0.8823529411764706], 'recall': [0.8888888888888888, 0.8333333333333334], 'f1': [0.8648648648648644, 0.8571428571428565], 'confusion_matrix': [[48, 6], [9, 45]], 'epoch': None}
+2022-08-17 Wednesday 16:36:46:INFO: {'type': 'metric', 'label': 'validation_loss', 'epoch': 3, 'value': 0.3729212284088135, 'sum': 40.275492668151855, 'num_example': 108}
+2022-08-17 Wednesday 16:36:46:INFO: {'type': 'metric', 'label': 'validation_dist_target', 'value': (0.1471482382880317, 0.22046336421260126), 'epoch': 3}
+2022-08-17 Wednesday 16:36:47:INFO: Epoch: 4
+2022-08-17 Wednesday 16:36:47:INFO: LR: 0.001
+2022-08-17 Wednesday 16:36:52:INFO: {'type': 'metric', 'label': 'training_confusion_matrix', 'accuracy': 0.9733692399760623, 'precision': [0.9788135593220338, 0.9680473372781065], 'recall': [0.9676840215439856, 0.9790544584081389], 'f1': [0.9732169726151062, 0.9735197857780418], 'confusion_matrix': [[1617, 54], [35, 1636]], 'epoch': None}
+2022-08-17 Wednesday 16:36:52:INFO: {'type': 'metric', 'label': 'training_loss', 'epoch': 4, 'value': 0.08308167765413052, 'sum': 277.6589667201042, 'num_example': 3342}
+2022-08-17 Wednesday 16:36:52:INFO: {'type': 'metric', 'label': 'training_dist_target', 'value': (0.054120714508135256, 0.05959808569622211), 'epoch': 4}
+2022-08-17 Wednesday 16:36:52:INFO: {'type': 'metric', 'label': 'validation_confusion_matrix', 'accuracy': 0.8703703703703703, 'precision': [0.8448275862068966, 0.9], 'recall': [0.9074074074074074, 0.8333333333333334], 'f1': [0.8749999999999994, 0.8653846153846148], 'confusion_matrix': [[49, 5], [9, 45]], 'epoch': None}
+2022-08-17 Wednesday 16:36:52:INFO: {'type': 'metric', 'label': 'validation_loss', 'epoch': 4, 'value': 0.3463665246963501, 'sum': 37.40758466720581, 'num_example': 108}
+2022-08-17 Wednesday 16:36:52:INFO: {'type': 'metric', 'label': 'validation_dist_target', 'value': (0.12029260176199454, 0.19629202948676217), 'epoch': 4}
+2022-08-17 Wednesday 16:36:53:INFO: Epoch: 5
+2022-08-17 Wednesday 16:36:53:INFO: LR: 0.001
+2022-08-17 Wednesday 16:36:57:INFO: {'type': 'metric', 'label': 'training_confusion_matrix', 'accuracy': 0.9778575703171754, 'precision': [0.9913846153846154, 0.965055329062318], 'recall': [0.9640933572710951, 0.9916217833632556], 'f1': [0.9775485436893199, 0.9781582054309321], 'confusion_matrix': [[1611, 60], [14, 1657]], 'epoch': None}
+2022-08-17 Wednesday 16:36:57:INFO: {'type': 'metric', 'label': 'training_loss', 'epoch': 5, 'value': 0.0721721595843205, 'sum': 241.1993573307991, 'num_example': 3342}
+2022-08-17 Wednesday 16:36:57:INFO: {'type': 'metric', 'label': 'training_dist_target', 'value': (0.054886894977196184, 0.03983056951896079), 'epoch': 5}
+2022-08-17 Wednesday 16:36:57:INFO: {'type': 'metric', 'label': 'validation_confusion_matrix', 'accuracy': 0.8148148148148148, 'precision': [0.7428571428571429, 0.9473684210526315], 'recall': [0.9629629629629629, 0.6666666666666666], 'f1': [0.8387096774193543, 0.7826086956521734], 'confusion_matrix': [[52, 2], [18, 36]], 'epoch': None}
+2022-08-17 Wednesday 16:36:57:INFO: {'type': 'metric', 'label': 'validation_loss', 'epoch': 5, 'value': 0.5199034214019775, 'sum': 56.149569511413574, 'num_example': 108}
+2022-08-17 Wednesday 16:36:57:INFO: {'type': 'metric', 'label': 'validation_dist_target', 'value': (0.06093054347568088, 0.3673716297856084), 'epoch': 5}
+2022-08-17 Wednesday 16:36:58:INFO: Epoch: 6
+2022-08-17 Wednesday 16:36:58:INFO: LR: 0.001
+2022-08-17 Wednesday 16:37:03:INFO: {'type': 'metric', 'label': 'training_confusion_matrix', 'accuracy': 0.9850388988629563, 'precision': [0.9885473176612417, 0.9815805109922757], 'recall': [0.9814482345900658, 0.9886295631358468], 'f1': [0.9849849849849844, 0.9850924269528916], 'confusion_matrix': [[1640, 31], [19, 1652]], 'epoch': None}
+2022-08-17 Wednesday 16:37:03:INFO: {'type': 'metric', 'label': 'training_loss', 'epoch': 6, 'value': 0.049579084570503466, 'sum': 165.69330063462257, 'num_example': 3342}
+2022-08-17 Wednesday 16:37:03:INFO: {'type': 'metric', 'label': 'training_dist_target', 'value': (0.03606840930678472, 0.03390359825034972), 'epoch': 6}
+2022-08-17 Wednesday 16:37:03:INFO: {'type': 'metric', 'label': 'validation_confusion_matrix', 'accuracy': 0.7962962962962963, 'precision': [0.7162162162162162, 0.9705882352941176], 'recall': [0.9814814814814815, 0.6111111111111112], 'f1': [0.8281249999999996, 0.7499999999999994], 'confusion_matrix': [[53, 1], [21, 33]], 'epoch': None}
+2022-08-17 Wednesday 16:37:03:INFO: {'type': 'metric', 'label': 'validation_loss', 'epoch': 6, 'value': 0.6209716200828552, 'sum': 67.06493496894836, 'num_example': 108}
+2022-08-17 Wednesday 16:37:03:INFO: {'type': 'metric', 'label': 'validation_dist_target', 'value': (0.03272049956851535, 0.4039450398197881), 'epoch': 6}
+2022-08-17 Wednesday 16:37:04:INFO: Epoch: 7
+2022-08-17 Wednesday 16:37:04:INFO: LR: 0.001
+2022-08-17 Wednesday 16:37:09:INFO: {'type': 'metric', 'label': 'training_confusion_matrix', 'accuracy': 0.9844404548174746, 'precision': [0.9938987187309335, 0.9753376394597769], 'recall': [0.9748653500897666, 0.9940155595451825], 'f1': [0.9842900302114799, 0.9845880260818014], 'confusion_matrix': [[1629, 42], [10, 1661]], 'epoch': None}
+2022-08-17 Wednesday 16:37:09:INFO: {'type': 'metric', 'label': 'training_loss', 'epoch': 7, 'value': 0.053864847155837406, 'sum': 180.0163191948086, 'num_example': 3342}
+2022-08-17 Wednesday 16:37:09:INFO: {'type': 'metric', 'label': 'training_dist_target', 'value': (0.03546154907475967, 0.027381308880628476), 'epoch': 7}
+2022-08-17 Wednesday 16:37:09:INFO: {'type': 'metric', 'label': 'validation_confusion_matrix', 'accuracy': 0.7777777777777778, 'precision': [0.6973684210526315, 0.96875], 'recall': [0.9814814814814815, 0.5740740740740741], 'f1': [0.8153846153846147, 0.7209302325581392], 'confusion_matrix': [[53, 1], [23, 31]], 'epoch': None}
+2022-08-17 Wednesday 16:37:09:INFO: {'type': 'metric', 'label': 'validation_loss', 'epoch': 7, 'value': 0.6193494200706482, 'sum': 66.88973736763, 'num_example': 108}
+2022-08-17 Wednesday 16:37:09:INFO: {'type': 'metric', 'label': 'validation_dist_target', 'value': (0.04868720195911549, 0.3919819019458912), 'epoch': 7}
+2022-08-17 Wednesday 16:37:10:INFO: Epoch: 8
+2022-08-17 Wednesday 16:37:10:INFO: LR: 0.001
+2022-08-17 Wednesday 16:37:15:INFO: {'type': 'metric', 'label': 'training_confusion_matrix', 'accuracy': 0.9889287851585876, 'precision': [0.9933574879227053, 0.9845788849347569], 'recall': [0.9844404548174746, 0.9934171154997008], 'f1': [0.9888788698527196, 0.9889782543938035], 'confusion_matrix': [[1645, 26], [11, 1660]], 'epoch': None}
+2022-08-17 Wednesday 16:37:15:INFO: {'type': 'metric', 'label': 'training_loss', 'epoch': 8, 'value': 0.037610291692309575, 'sum': 125.6935948356986, 'num_example': 3342}
+2022-08-17 Wednesday 16:37:15:INFO: {'type': 'metric', 'label': 'training_dist_target', 'value': (0.024153475005922027, 0.025367588072319647), 'epoch': 8}
+2022-08-17 Wednesday 16:37:15:INFO: {'type': 'metric', 'label': 'validation_confusion_matrix', 'accuracy': 0.8611111111111112, 'precision': [0.8095238095238095, 0.9333333333333333], 'recall': [0.9444444444444444, 0.7777777777777778], 'f1': [0.8717948717948713, 0.848484848484848], 'confusion_matrix': [[51, 3], [12, 42]], 'epoch': None}
+2022-08-17 Wednesday 16:37:15:INFO: {'type': 'metric', 'label': 'validation_loss', 'epoch': 8, 'value': 0.4388590455055237, 'sum': 47.39677691459656, 'num_example': 108}
+2022-08-17 Wednesday 16:37:15:INFO: {'type': 'metric', 'label': 'validation_dist_target', 'value': (0.07891667330706562, 0.2375817475495515), 'epoch': 8}
+2022-08-17 Wednesday 16:37:16:INFO: Calculating recall rate: sun2011
+2022-08-17 Wednesday 16:39:23:INFO: RR calculation - 500 duplicate reports were processed
+2022-08-17 Wednesday 16:39:29:INFO: [] Throughput: 3.9262694325994 bugs per second (bugs=520 ,seconds=132.441241979599)
+2022-08-17 Wednesday 16:39:29:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 1, 'rate': 0.17307692307692307, 'hit': 90, 'total': 520, 'epoch': 0}
+2022-08-17 Wednesday 16:39:29:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 2, 'rate': 0.25, 'hit': 130, 'total': 520, 'epoch': 0}
+2022-08-17 Wednesday 16:39:29:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 3, 'rate': 0.28846153846153844, 'hit': 150, 'total': 520, 'epoch': 0}
+2022-08-17 Wednesday 16:39:29:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 4, 'rate': 0.31153846153846154, 'hit': 162, 'total': 520, 'epoch': 0}
+2022-08-17 Wednesday 16:39:29:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 5, 'rate': 0.325, 'hit': 169, 'total': 520, 'epoch': 0}
+2022-08-17 Wednesday 16:39:29:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 6, 'rate': 0.3384615384615385, 'hit': 176, 'total': 520, 'epoch': 0}
+2022-08-17 Wednesday 16:39:29:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 7, 'rate': 0.35384615384615387, 'hit': 184, 'total': 520, 'epoch': 0}
+2022-08-17 Wednesday 16:39:29:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 8, 'rate': 0.3596153846153846, 'hit': 187, 'total': 520, 'epoch': 0}
+2022-08-17 Wednesday 16:39:29:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 9, 'rate': 0.36538461538461536, 'hit': 190, 'total': 520, 'epoch': 0}
+2022-08-17 Wednesday 16:39:29:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 10, 'rate': 0.3769230769230769, 'hit': 196, 'total': 520, 'epoch': 0}
+2022-08-17 Wednesday 16:39:29:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 11, 'rate': 0.38653846153846155, 'hit': 201, 'total': 520, 'epoch': 0}
+2022-08-17 Wednesday 16:39:29:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 12, 'rate': 0.39807692307692305, 'hit': 207, 'total': 520, 'epoch': 0}
+2022-08-17 Wednesday 16:39:29:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 13, 'rate': 0.40576923076923077, 'hit': 211, 'total': 520, 'epoch': 0}
+2022-08-17 Wednesday 16:39:29:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 14, 'rate': 0.4115384615384615, 'hit': 214, 'total': 520, 'epoch': 0}
+2022-08-17 Wednesday 16:39:29:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 15, 'rate': 0.4173076923076923, 'hit': 217, 'total': 520, 'epoch': 0}
+2022-08-17 Wednesday 16:39:29:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 16, 'rate': 0.4269230769230769, 'hit': 222, 'total': 520, 'epoch': 0}
+2022-08-17 Wednesday 16:39:29:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 17, 'rate': 0.4307692307692308, 'hit': 224, 'total': 520, 'epoch': 0}
+2022-08-17 Wednesday 16:39:29:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 18, 'rate': 0.4403846153846154, 'hit': 229, 'total': 520, 'epoch': 0}
+2022-08-17 Wednesday 16:39:29:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 19, 'rate': 0.4442307692307692, 'hit': 231, 'total': 520, 'epoch': 0}
+2022-08-17 Wednesday 16:39:29:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 20, 'rate': 0.4480769230769231, 'hit': 233, 'total': 520, 'epoch': 0}
+2022-08-17 Wednesday 16:39:29:INFO: {'type': 'metric', 'label': 'MAP', 'value': 0.2509425505483495, 'sum': 130.49012628514174, 'total': 520, 'epoch': 0}
+2022-08-17 Wednesday 16:39:29:INFO: [26, inf, 89, inf, 2, 3, 136, inf, 6, 89, 2, 1, 1, 18, 248, 1, 7919, 30, 400, 4115, 24, 4, 1, 2, 3, inf, 2, 2, inf, 2055, 1, 174, inf, 46, 2, 4, inf, inf, 2, 2, 1, 78, 1336, 6, 2, 33, 2, 627, 24, 44, 7, 79, 5, 105, 237, 4871, 114, 2, 1, 711, 11, 1, 1150, 44, 117, 1, 86, 27, 1, 21, 2, 50, 21, 43, 4, 376, inf, 1, 3, 187, 112, 108, 3163, 17, 22, 1, 12, 13, 2, inf, 15, 348, 4, 4, 1100, 2, 41, 11, 87, 31, 207, inf, 40, 3, 363, 1134, 2, inf, 5, 88, 2972, 2, 611, 13, 30, 1474, 1, 218, 1, 1604, 16, 5, 1, 2, 226, inf, 266, 24, 62, 249, 18, 10, 110, inf, inf, 107, inf, 403, 101, 36, 22, 12, 381, 65, 29, 1, 1, inf, 512, 393, 86, 6, 48, 1, 1, 1, 792, 1749, 81, 16, 92, 25, 32, 8, 1094, 81, 4, 1088, 3, 1, 6, 2, 1, inf, 1, 1814, 140, 89, 67, inf, 1, 27, 1, 3, 93, 1, 16, inf, 1663, 15, 78, 23, 2, 7, 1127, 82, 348, 147, 56, 21, 65, inf, 5826, 21, 120, 10, 8, 1, 1, inf, 41, 32, 1, 75, 352, 3, 96, 5, 63, 3, 21, 1, 6322, 214, inf, 99, 605, 156, 87, 57, 131, 12, 18, 1, 53, 4, 7, inf, 4018, 192, 1, 4, 300, 2, 24, 2, inf, 460, 10, inf, 72, inf, 2, 1, 66, 31, 2, 128, 1, 154, 39, 377, 12, inf, 44, 3, 3, 2, 7, 2, 1, 1, 1, 1391, 184, 19, 4262, 1346, 22, 1365, 2, 1, 53, inf, 1, 1, 118, 1, 1617, 13, 2, 326, 31, 1014, 288, 23, 1, 9, 1418, 1, 27, 1405, 3, 11, 189, inf, 5, 7, 1203, 1, 17, 1, 1, 1, 185, 55, 32, 426, 80, 1, 4450, 57, 1, 101, 91, 65, 37, 29, inf, 124, 1, 106, 101, 15, 148, 1, 1395, 7, 1, 82, 1, 64, 2, 77, 84, 1, 9, 10, 62, 1898, 6, 29, 1, 14, 68, 5415, 19, 177, 940, 243, 211, 11, 64, 1, 1678, 282, 1, 1, 41, 105, 1, inf, 1, 20, 3, 4, 57, 404, inf, 70, 1, 1, 1, 1, 1, 18, 1, inf, 1, inf, 45, 2, 155, 74, 10, 142, 92, 4, 222, 8, 160, 2, 6, 97, 40, 1, 208, 1, 932, 43, 91, 144, 31, 164, 831, 1, 730, 387, 12, 35, 42, 5, 5937, 2, 267, 1, inf, 252, 1, 2, 3, 1, 98, 361, 1, 32, 1514, 1, inf, 4, 1, 1158, 9, 16, 1, 1, 5, 3, inf, 28, 21, 366, 1, 108, 14, inf, 1, 74, 7, 2, 13, 2, 20, 1, 558, 3, 2, 3, 59, 1, 53, 2, 58, 493, 146, 11, 36, 1, 1, 51, 375, 202, 503, 33, 25, 1, 673, 18, 1132, 14, 10, 120, 6, 3, 16, inf, 2, 4, 3, 12, 1, 1924, 1, 421, 27, 3, 250, 2274, 7, 1, 44, 47, 3, 178, 138, 2, 2, 1, 1, 2]
+2022-08-17 Wednesday 16:39:29:INFO: It completed at: 2022-08-17 16:39:29.332568
+2022-08-17 Wednesday 16:39:29:INFO: Completed after: 0:14:46.703496

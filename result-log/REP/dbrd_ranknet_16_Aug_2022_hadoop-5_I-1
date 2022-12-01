@@ -1,0 +1,148 @@
+====================================================================
+--Started at Tue Aug 16 13:26:53 2022
+--Dataset file = /my_home/TOSEM-DBRD/SABD/dataset/hadoop/dbrd_test.txt
+--Total Iterations = 1
+--Indexing Type = NO_INDEXING
+====================================================================
+
+
+Iteration 1
+Random seed = 2011231125
+INFO: #reports = 14016
+RankNet Detector
+INFO: skipped reports [(285)duplicate/(10267)all]
+INFO: RankNet: building training pairs...
+INFO: RankNet: built 19680 training pairs.
+INFO: RankNet: built 0 validating pairs.
+
+[unigram] BM25F Parameter...
+[total weight, fixed = 0] = 0.779583
+[k1, fixed = 1] = 2.000000
+[summary weight, fixed = 1] = 2.956278
+[summary b, fixed = 1] = 1.000000
+[description weight, fixed = 1] = 0.164421
+[description b, fixed = 1] = 0.900871
+[k3, fixed = 0] = 0.136758
+
+[bigram] BM25F Parameter...
+[total weight, fixed = 0] = 0.006586
+[k1, fixed = 1] = 2.000000
+[summary weight, fixed = 1] = 3.002288
+[summary b, fixed = 1] = 0.507318
+[description weight, fixed = 1] = 0.876998
+[description b, fixed = 1] = 0.999981
+[k3, fixed = 0] = 0.000010
+
+Surface weights...
+[component weight, fixed = 0] = 2.000000
+[sub component weight, fixed = 0] = 0.460557
+[report type weight, fixed = 0] = 0.700000
+[priority weight, fixed = 0] = 0.256060
+[version weight, fixed = 1] = 0.000000
+INFO: the master set (13162319) couldn't be reached (diff=639,query=13287659)
+INFO: the master set (13167029) couldn't be reached (diff=623,query=13289102)
+INFO: the master set (13156176) couldn't be reached (diff=683,query=13291590)
+INFO: the master set (13137405) couldn't be reached (diff=812,query=13307183)
+INFO: the master set (13202193) couldn't be reached (diff=431,query=13308116)
+INFO: the master set (13159283) couldn't be reached (diff=744,query=13308151)
+INFO: the master set (13228211) couldn't be reached (diff=420,query=13310234)
+INFO: the master set (13218114) couldn't be reached (diff=429,query=13313461)
+INFO: the master set (13219206) couldn't be reached (diff=492,query=13315643)
+INFO: the master set (13173400) couldn't be reached (diff=727,query=13317204)
+INFO: the master set (13248907) couldn't be reached (diff=382,query=13323878)
+INFO: the master set (13238730) couldn't be reached (diff=449,query=13325693)
+INFO: the master set (13195506) couldn't be reached (diff=673,query=13325869)
+INFO: the master set (13208469) couldn't be reached (diff=617,query=13328117)
+INFO: the master set (13222705) couldn't be reached (diff=577,query=13335723)
+INFO: the master set (13275126) couldn't be reached (diff=376,query=13348170)
+
+Elapsed time = 7
+Recall...
+TOP( 1)(   38/   92)=0.413043
+TOP( 2)(   47/   92)=0.510870
+TOP( 3)(   51/   92)=0.554348
+TOP( 4)(   54/   92)=0.586957
+TOP( 5)(   55/   92)=0.597826
+TOP( 6)(   59/   92)=0.641304
+TOP( 7)(   60/   92)=0.652174
+TOP( 8)(   60/   92)=0.652174
+TOP( 9)(   61/   92)=0.663043
+TOP(10)(   61/   92)=0.663043
+TOP(11)(   62/   92)=0.673913
+TOP(12)(   62/   92)=0.673913
+TOP(13)(   62/   92)=0.673913
+TOP(14)(   62/   92)=0.673913
+TOP(15)(   62/   92)=0.673913
+TOP(16)(   62/   92)=0.673913
+TOP(17)(   62/   92)=0.673913
+TOP(18)(   62/   92)=0.673913
+TOP(19)(   62/   92)=0.673913
+TOP(20)(   63/   92)=0.684783
+Recall...
+0.413043
+0.510870
+0.554348
+0.586957
+0.597826
+0.641304
+0.652174
+0.652174
+0.663043
+0.663043
+0.673913
+0.673913
+0.673913
+0.673913
+0.673913
+0.673913
+0.673913
+0.673913
+0.673913
+0.684783
+MAP = 0.499497
+
+
+
+Average Average Recall...
+TOP( 1)=0.413043
+TOP( 2)=0.510870
+TOP( 3)=0.554348
+TOP( 4)=0.586957
+TOP( 5)=0.597826
+TOP( 6)=0.641304
+TOP( 7)=0.652174
+TOP( 8)=0.652174
+TOP( 9)=0.663043
+TOP(10)=0.663043
+TOP(11)=0.673913
+TOP(12)=0.673913
+TOP(13)=0.673913
+TOP(14)=0.673913
+TOP(15)=0.673913
+TOP(16)=0.673913
+TOP(17)=0.673913
+TOP(18)=0.673913
+TOP(19)=0.673913
+TOP(20)=0.684783
+Average Average Recall...
+0.413043
+0.510870
+0.554348
+0.586957
+0.597826
+0.641304
+0.652174
+0.652174
+0.663043
+0.663043
+0.673913
+0.673913
+0.673913
+0.673913
+0.673913
+0.673913
+0.673913
+0.673913
+0.673913
+0.684783
+Average MAP = 0.499497

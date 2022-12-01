@@ -1,0 +1,60 @@
+2022-08-30 Tuesday 17:07:48:INFO: Evaluating hadoop TEXT 3
+2022-08-30 Tuesday 17:07:48:INFO: It started at: 2022-08-30 17:07:48.061089
+2022-08-30 Tuesday 17:07:48:INFO: Number of bugs with empty description: 14
+2022-08-30 Tuesday 17:07:56:WARNING: Bug 13287659 has 0 candidates!
+2022-08-30 Tuesday 17:07:56:WARNING: Recommendation list of 13287659 is empty.                 Consider it as miss.
+2022-08-30 Tuesday 17:07:57:WARNING: Bug 13289102 has 0 candidates!
+2022-08-30 Tuesday 17:07:57:WARNING: Recommendation list of 13289102 is empty.                 Consider it as miss.
+2022-08-30 Tuesday 17:07:58:WARNING: Bug 13291590 has 0 candidates!
+2022-08-30 Tuesday 17:07:58:WARNING: Recommendation list of 13291590 is empty.                 Consider it as miss.
+2022-08-30 Tuesday 17:08:05:WARNING: Bug 13307183 has 0 candidates!
+2022-08-30 Tuesday 17:08:05:WARNING: Recommendation list of 13307183 is empty.                 Consider it as miss.
+2022-08-30 Tuesday 17:08:05:WARNING: Bug 13308116 has 0 candidates!
+2022-08-30 Tuesday 17:08:05:WARNING: Recommendation list of 13308116 is empty.                 Consider it as miss.
+2022-08-30 Tuesday 17:08:05:WARNING: Bug 13308151 has 0 candidates!
+2022-08-30 Tuesday 17:08:05:WARNING: Recommendation list of 13308151 is empty.                 Consider it as miss.
+2022-08-30 Tuesday 17:08:05:WARNING: Bug 13310234 has 0 candidates!
+2022-08-30 Tuesday 17:08:05:WARNING: Recommendation list of 13310234 is empty.                 Consider it as miss.
+2022-08-30 Tuesday 17:08:08:WARNING: Bug 13313461 has 0 candidates!
+2022-08-30 Tuesday 17:08:08:WARNING: Recommendation list of 13313461 is empty.                 Consider it as miss.
+2022-08-30 Tuesday 17:08:08:WARNING: Bug 13315643 has 0 candidates!
+2022-08-30 Tuesday 17:08:08:WARNING: Recommendation list of 13315643 is empty.                 Consider it as miss.
+2022-08-30 Tuesday 17:08:08:WARNING: Bug 13317204 has 0 candidates!
+2022-08-30 Tuesday 17:08:08:WARNING: Recommendation list of 13317204 is empty.                 Consider it as miss.
+2022-08-30 Tuesday 17:08:10:WARNING: Bug 13323878 has 0 candidates!
+2022-08-30 Tuesday 17:08:10:WARNING: Recommendation list of 13323878 is empty.                 Consider it as miss.
+2022-08-30 Tuesday 17:08:11:WARNING: Bug 13325693 has 0 candidates!
+2022-08-30 Tuesday 17:08:11:WARNING: Recommendation list of 13325693 is empty.                 Consider it as miss.
+2022-08-30 Tuesday 17:08:11:WARNING: Bug 13325869 has 0 candidates!
+2022-08-30 Tuesday 17:08:11:WARNING: Recommendation list of 13325869 is empty.                 Consider it as miss.
+2022-08-30 Tuesday 17:08:11:WARNING: Bug 13328117 has 0 candidates!
+2022-08-30 Tuesday 17:08:11:WARNING: Recommendation list of 13328117 is empty.                 Consider it as miss.
+2022-08-30 Tuesday 17:08:12:WARNING: Bug 13335723 has 0 candidates!
+2022-08-30 Tuesday 17:08:12:WARNING: Recommendation list of 13335723 is empty.                 Consider it as miss.
+2022-08-30 Tuesday 17:08:17:WARNING: Bug 13348170 has 0 candidates!
+2022-08-30 Tuesday 17:08:17:WARNING: Recommendation list of 13348170 is empty.                 Consider it as miss.
+2022-08-30 Tuesday 17:08:18:INFO: [Recall Rate] Throughput: 3.315750096106029 bugs per second (bugs=92 ,seconds=27.746361255645752)
+2022-08-30 Tuesday 17:08:18:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 1, 'rate': 0.06521739130434782, 'hit': 6, 'total': 92}
+2022-08-30 Tuesday 17:08:18:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 2, 'rate': 0.08695652173913043, 'hit': 8, 'total': 92}
+2022-08-30 Tuesday 17:08:18:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 3, 'rate': 0.10869565217391304, 'hit': 10, 'total': 92}
+2022-08-30 Tuesday 17:08:18:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 4, 'rate': 0.11956521739130435, 'hit': 11, 'total': 92}
+2022-08-30 Tuesday 17:08:18:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 5, 'rate': 0.11956521739130435, 'hit': 11, 'total': 92}
+2022-08-30 Tuesday 17:08:18:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 6, 'rate': 0.11956521739130435, 'hit': 11, 'total': 92}
+2022-08-30 Tuesday 17:08:18:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 7, 'rate': 0.11956521739130435, 'hit': 11, 'total': 92}
+2022-08-30 Tuesday 17:08:18:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 8, 'rate': 0.11956521739130435, 'hit': 11, 'total': 92}
+2022-08-30 Tuesday 17:08:18:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 9, 'rate': 0.11956521739130435, 'hit': 11, 'total': 92}
+2022-08-30 Tuesday 17:08:18:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 10, 'rate': 0.13043478260869565, 'hit': 12, 'total': 92}
+2022-08-30 Tuesday 17:08:18:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 11, 'rate': 0.13043478260869565, 'hit': 12, 'total': 92}
+2022-08-30 Tuesday 17:08:18:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 12, 'rate': 0.13043478260869565, 'hit': 12, 'total': 92}
+2022-08-30 Tuesday 17:08:18:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 13, 'rate': 0.13043478260869565, 'hit': 12, 'total': 92}
+2022-08-30 Tuesday 17:08:18:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 14, 'rate': 0.13043478260869565, 'hit': 12, 'total': 92}
+2022-08-30 Tuesday 17:08:18:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 15, 'rate': 0.13043478260869565, 'hit': 12, 'total': 92}
+2022-08-30 Tuesday 17:08:18:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 16, 'rate': 0.14130434782608695, 'hit': 13, 'total': 92}
+2022-08-30 Tuesday 17:08:18:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 17, 'rate': 0.14130434782608695, 'hit': 13, 'total': 92}
+2022-08-30 Tuesday 17:08:18:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 18, 'rate': 0.17391304347826086, 'hit': 16, 'total': 92}
+2022-08-30 Tuesday 17:08:18:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 19, 'rate': 0.18478260869565216, 'hit': 17, 'total': 92}
+2022-08-30 Tuesday 17:08:18:INFO: {'type': 'metric', 'label': 'recall_rate', 'k': 20, 'rate': 0.18478260869565216, 'hit': 17, 'total': 92}
+2022-08-30 Tuesday 17:08:18:INFO: {'type': 'metric', 'label': 'MAP', 'value': 0.09352423141571972, 'sum': 8.604229290246215, 'total': 92}
+2022-08-30 Tuesday 17:08:18:INFO: [3, 1353, 587, 16, 288, 669, 147, 1, 2, 169, 1303, 82, 185, inf, 257, 1, 375, inf, 1458, 840, 18, inf, 4, 624, 1384, 165, 30, 3167, 101, 3, 720, 48, 116, 3830, 142, 733, 439, 202, 2884, 47, 289, 194, 2055, inf, inf, inf, inf, 1, 57, 513, 54, 3469, 1169, inf, 1, inf, 1321, inf, 1, 19, 150, 2115, 137, inf, 77, 319, 196, inf, inf, 153, inf, 1, 2, inf, 1393, 743, 3729, 94, 977, 315, 18, 727, 10, 88, 1449, 708, 128, 1068, 18, 202, inf, 620]
+2022-08-30 Tuesday 17:08:18:INFO: It completed at: 2022-08-30 17:08:18.141450
+2022-08-30 Tuesday 17:08:18:INFO: Completed after: 0:00:30.080361

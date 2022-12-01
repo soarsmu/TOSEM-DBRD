@@ -1,0 +1,24 @@
+/*
+ * Version.h
+ *
+ *  Created on: Mar 14, 2013
+ *      Author: neo
+ */
+
+#ifndef VERSION_H_
+#define VERSION_H_
+
+#define MAJOR_VERSION "@FAST_DBRD_VERSION_MAJOR@"
+
+#define MINOR_VERSION "@FAST_DBRD_VERSION_MINOR@"
+
+#define BUILDING_TIME "@BUILDING_DATE@"
+
+#include <string>
+
+using std::string;
+
+string get_version_string();
+
+
+#endif /* VERSION_H_ */
