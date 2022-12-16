@@ -96,5 +96,26 @@ Please refer to the [notebook](./data-viz/chart_graph.ipynb).
 # Acknowledgements
 Thanks the everyone kindly share their implementations and be patient to answer our questions.
 
+# Cite
+Please consider citing our work:
+
+```
+@article{zhang2022duplicate,
+    author = {Zhang, Ting and Han, DongGyun and Vinayakarao, Venkatesh and Irsan, Ivana Clairine and Xu, Bowen and Thung, Ferdian and Lo, David and Jiang, Lingxiao},
+    title = {Duplicate Bug Report Detection: How Far Are We?},
+    year = {2022},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    issn = {1049-331X},
+    url = {https://doi.org/10.1145/3576042},
+    doi = {10.1145/3576042},
+    abstract = {Many Duplicate Bug Report Detection (DBRD) techniques have been proposed in the research literature. The industry uses some other techniques. Unfortunately, there is insufficient comparison among them, and it is unclear how far we have been. This work fills this gap by comparing the aforementioned techniques. To compare them, we first need a benchmark that can estimate how a tool would perform if applied in a realistic setting today. Thus, we first investigated potential biases that affect the fair comparison of the accuracy of DBRD techniques. Our experiments suggest that data age and issue tracking system choice cause a significant difference. Based on these findings, we prepared a new benchmark. We then used it to evaluate DBRD techniques to estimate better how far we have been. Surprisingly, a simpler technique outperforms recently proposed sophisticated techniques on most projects in our benchmark. In addition, we compared the DBRD techniques proposed in research with those used in Mozilla and VSCode. Surprisingly, we observe that a simple technique already adopted in practice can achieve comparable results as a recently proposed research tool. Our study gives reflections on the current state of DBRD, and we share our insights to benefit future DBRD research.},
+    note = {Just Accepted},
+    journal = {ACM Trans. Softw. Eng. Methodol.},
+    month = {dec},
+    keywords = {Bug Reports, Empirical Study, Duplicate Bug Report Detection, Deep Learning}
+}
+```
+
 # Contact
 If you have any questions, feel free to contact Ting Zhang (email: happygirlzt@gmail.com or tingzhang.2019@phdcs.smu.edu.sg).
