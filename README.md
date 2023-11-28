@@ -48,8 +48,7 @@ Install Make (can use the same docker as REP)
 apt-get update & apt-get install cmake
 ```
 
-Allow run and run `demo.sh` + the project name
-
+Allow run and run `demo.sh` + the project name. Please check our sample `SABD/demo.sh`.
 ```bash
 chmod 777 demo.sh
 ./demo.sh eclipse
@@ -85,6 +84,7 @@ docker run --name dbrd-mysql -e MYSQL_ROOT_PASSWORD=12345678 -d mysql
 # Data
 Please download the data from [here](https://smu-my.sharepoint.com/:u:/g/personal/tingzhang_2019_phdcs_smu_edu_sg/ETABjlpPMytLqvPJ4WmK4FMBQO2R3J1EVpmlVVN_5laM-A?e=kU4Yxf).
 
+You can also download the processed word embeddings from [here](https://smu-my.sharepoint.com/:f:/g/personal/tingzhang_2019_phdcs_smu_edu_sg/Ev-R3yeBrKpErpS5FJkwtqEBjs6Kjv_sVz6Qp_9WvVPKEw?e=NNwpK9).
 # Commands
 Please check each folder for the commands to run the approaches.
 
